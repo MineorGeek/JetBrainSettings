@@ -25,6 +25,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Translation Dialog...">
         <Item>
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
@@ -57,6 +65,20 @@
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="JRebel Console">
+        <Item>
+          <IdeaActionID>ActivateJRebelConsoleToolWindow</IdeaActionID>
+          <Description>JRebel Console</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DemoApplication'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
