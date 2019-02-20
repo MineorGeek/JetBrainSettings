@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscription" />
+      <item value="aggregate" />
       <item value="Subscriptions" />
       <item value="The term does not include an account that has been subordinated to the claims of creditors of the carrying broker or dealer" />
       <item value="subordinated" />
@@ -27,8 +29,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
