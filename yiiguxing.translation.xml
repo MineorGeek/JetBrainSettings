@@ -1,14 +1,34 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Subscriptions" />
+      <item value="The term does not include an account that has been subordinated to the claims of creditors of the carrying broker or dealer" />
+      <item value="subordinated" />
+      <item value="term" />
+      <item value="payment" />
+      <item value="versus" />
+      <item value="receipt" />
+      <item value="delivery" />
+      <item value="other than" />
+      <item value="other than a delivery-versus-payment account or a receipt-versus-payment account." />
+      <item value="which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer" />
+      <item value="foreign" />
+      <item value="a broker or dealer" />
+      <item value="proprietary" />
+      <item value="The term “PAB account” means a proprietary securities account of a broker or dealer (which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer) other than a delivery-versus-payment account or a receipt-versus-payment account. The term does not include an account that has been subordinated to the claims of creditors of the carrying broker or dealer." />
+      <item value="The term “PAB account” means a proprietary securities account of a broker or dealer * (which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer) other than a * delivery-versus-payment account or a receipt-versus-payment account. The term does not include an * account that has been subordinated to the claims of creditors of the carrying broker or dealer." />
+      <item value="dealer" />
+      <item value="broker" />
+      <item value="a proprietary securities account of a broker or dealer" />
+      <item value="PLACING" />
+      <item value="COMMON" />
       <item value="example" />
       <item value="criteria" />
-      <item value="PLACING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>

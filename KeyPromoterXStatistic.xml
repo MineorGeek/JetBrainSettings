@@ -41,6 +41,24 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Translate">
+        <Item>
+          <IdeaActionID>$EditorTranslateAction</IdeaActionID>
+          <ShortCut>'⌃⌘U'</ShortCut>
+          <Description>Translate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
