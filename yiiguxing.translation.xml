@@ -1,7 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AGGREGATE" />
+      <item value="aggregate" />
       <item value="subscription" />
+      <item value="settle Single Allocation" />
+      <item value="settle" />
       <item value="subscriptions" />
       <item value="Clause" />
       <item value="Claus" />
@@ -12,7 +16,6 @@
       <item value="CANCELLED" />
       <item value="ALLOCATED" />
       <item value="Subscription" />
-      <item value="aggregate" />
       <item value="Subscriptions" />
       <item value="The term does not include an account that has been subordinated to the claims of creditors of the carrying broker or dealer" />
       <item value="subordinated" />
@@ -39,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
