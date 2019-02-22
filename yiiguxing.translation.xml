@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aggregate" />
+      <item value="COMMON" />
       <item value="PLACING" />
       <item value="import" />
       <item value="AGGREGATE" />
       <item value="GGREGATE" />
       <item value="identity" />
       <item value="filled" />
-      <item value="aggregate" />
       <item value="subscription" />
       <item value="settle Single Allocation" />
       <item value="settle" />
@@ -40,14 +41,13 @@
       <item value="dealer" />
       <item value="broker" />
       <item value="a proprietary securities account of a broker or dealer" />
-      <item value="COMMON" />
       <item value="example" />
       <item value="criteria" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
