@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quantity" />
+      <item value="constituent Reference" />
+      <item value="constituent" />
+      <item value="Preview" />
       <item value="Import" />
       <item value="zero Allocation" />
       <item value="Aggregate" />
@@ -47,12 +51,12 @@
       <item value="broker" />
       <item value="a proprietary securities account of a broker or dealer" />
       <item value="example" />
-      <item value="criteria" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
