@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="settle" />
+      <item value="FUT" />
+      <item value="SEC" />
+      <item value="Asset" />
       <item value="kid" />
       <item value="interface" />
       <item value="Component" />
@@ -26,7 +30,6 @@
       <item value="filled" />
       <item value="subscription" />
       <item value="settle Single Allocation" />
-      <item value="settle" />
       <item value="subscriptions" />
       <item value="Clause" />
       <item value="Claus" />
@@ -48,15 +51,12 @@
       <item value="other than" />
       <item value="other than a delivery-versus-payment account or a receipt-versus-payment account." />
       <item value="which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer" />
-      <item value="foreign" />
-      <item value="a broker or dealer" />
-      <item value="proprietary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
-        <entry key="FRENCH" value="2" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
+        <entry key="FRENCH" value="3" />
       </map>
     </option>
   </component>
