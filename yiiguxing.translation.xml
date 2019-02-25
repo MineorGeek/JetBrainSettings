@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="kid" />
       <item value="interface" />
       <item value="Component" />
       <item value="Quantity" />
@@ -50,11 +51,10 @@
       <item value="foreign" />
       <item value="a broker or dealer" />
       <item value="proprietary" />
-      <item value="The term “PAB account” means a proprietary securities account of a broker or dealer (which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer) other than a delivery-versus-payment account or a receipt-versus-payment account. The term does not include an account that has been subordinated to the claims of creditors of the carrying broker or dealer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="ENGLISH" value="70" />
         <entry key="FRENCH" value="2" />
       </map>
