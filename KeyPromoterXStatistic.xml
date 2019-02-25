@@ -81,14 +81,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Toggle Line Breakpoint">
-        <Item>
-          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
-          <ShortCut>'⌘F8'</ShortCut>
-          <Description>Toggle Line Breakpoint</Description>
-          <Count>8</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Translate">
         <Item>
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
@@ -135,6 +127,14 @@
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
     </option>
