@@ -113,6 +113,18 @@
           <Description>JRebel Console</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Maven">
+        <Item>
+          <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
+          <Description>Maven</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reimport All Maven Projects">
+        <Item>
+          <IdeaActionID>Maven.Reimport</IdeaActionID>
+          <Description>Reimport All Maven Projects</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
