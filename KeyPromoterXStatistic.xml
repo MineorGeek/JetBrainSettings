@@ -33,12 +33,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Project">
+      <Statistic Action="Project Structure...">
         <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'⌘1'</ShortCut>
-          <Description>Project</Description>
-          <Count>9</Count>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'⌘;'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DemoApplication'">
@@ -117,6 +117,14 @@
         <Item>
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <Description>Maven</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reimport All Maven Projects">
