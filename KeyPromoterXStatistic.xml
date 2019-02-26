@@ -49,14 +49,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Restore Windows">
-        <Item>
-          <IdeaActionID>HideAllWindows</IdeaActionID>
-          <ShortCut>'⇧⌘F12'</ShortCut>
-          <Description>Restore Windows</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -131,6 +123,14 @@
         <Item>
           <IdeaActionID>Maven.Reimport</IdeaActionID>
           <Description>Reimport All Maven Projects</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
