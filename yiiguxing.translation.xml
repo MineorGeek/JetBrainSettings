@@ -1,15 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cent" />
+      <item value="Derivatives" />
+      <item value="Security" />
+      <item value="Fund" />
       <item value="evaluate" />
       <item value="Commission" />
       <item value="processing" />
       <item value="transaction" />
-      <item value="Fund" />
       <item value="quantity" />
       <item value="ommission" />
       <item value="Brief" />
-      <item value="Derivatives" />
       <item value="Securities" />
       <item value="Seg" />
       <item value="Aggregator" />
@@ -49,13 +51,11 @@
       <item value="PENDING" />
       <item value="BOOKING" />
       <item value="LISTED" />
-      <item value="CLOSED" />
-      <item value="CANCELLED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
       </map>
