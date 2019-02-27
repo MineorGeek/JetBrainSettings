@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quantity" />
+      <item value="The term does not include an //account that has been subordinated to the claims of creditors of the carrying broker or dealer" />
+      <item value="subordinated" />
+      <item value="term" />
+      <item value="receipt" />
+      <item value="payment" />
+      <item value="//delivery-versus-payment account or a receipt-versus-payment account. The term does not include an" />
+      <item value="versus" />
+      <item value="delivery" />
+      <item value="other than" />
+      <item value="proprietary" />
+      <item value="securities" />
+      <item value="The term “PAB account” means a proprietary securities account of a broker or dealer (which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer) other than a delivery-versus-payment account or a receipt-versus-payment account. The term does not include an account that has been subordinated to the claims of creditors of the carrying broker or dealer." />
       <item value="Asset" />
       <item value="settled" />
       <item value="Cent" />
@@ -24,7 +37,6 @@
       <item value="kid" />
       <item value="interface" />
       <item value="Component" />
-      <item value="Quantity" />
       <item value="abstract Map&lt;Long, Integer&gt; loadAccount" />
       <item value="Constituent" />
       <item value="Transfer" />
@@ -39,26 +51,17 @@
       <item value="aggregate" />
       <item value="COMMON" />
       <item value="PLACING" />
-      <item value="import" />
-      <item value="AGGREGATE" />
-      <item value="GGREGATE" />
-      <item value="identity" />
-      <item value="filled" />
-      <item value="subscription" />
-      <item value="settle Single Allocation" />
-      <item value="subscriptions" />
-      <item value="Clause" />
-      <item value="Claus" />
-      <item value="PENDING" />
-      <item value="BOOKING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>

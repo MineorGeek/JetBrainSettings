@@ -62,7 +62,7 @@
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
           <ShortCut>'⌃⌘I'</ShortCut>
           <Description>Show Translation Dialog...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">

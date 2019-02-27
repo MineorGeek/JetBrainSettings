@@ -1,0 +1,13 @@
+<keymap version="1" name="PerfectKeyMap" parent="Mac OS X">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+</keymap>
