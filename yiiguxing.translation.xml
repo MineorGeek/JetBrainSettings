@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Selective" />
       <item value="decrypt" />
       <item value="AGGREGATE" />
       <item value="Quantity" />
@@ -50,12 +51,11 @@
       <item value="Aggregate" />
       <item value="submit Request" />
       <item value="chasing" />
-      <item value="aggregate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
       </map>
