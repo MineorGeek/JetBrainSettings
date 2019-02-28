@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Aggregator" />
       <item value="Selective" />
       <item value="decrypt" />
       <item value="AGGREGATE" />
@@ -32,7 +33,6 @@
       <item value="Brief" />
       <item value="Securities" />
       <item value="Seg" />
-      <item value="Aggregator" />
       <item value="asset" />
       <item value="settle" />
       <item value="FUT" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
       </map>
