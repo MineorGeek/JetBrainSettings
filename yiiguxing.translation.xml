@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IPO Allocation Type" />
       <item value="Aggregator" />
       <item value="Selective" />
       <item value="decrypt" />
@@ -50,12 +51,11 @@
       <item value="zero Allocation" />
       <item value="Aggregate" />
       <item value="submit Request" />
-      <item value="chasing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
       </map>
