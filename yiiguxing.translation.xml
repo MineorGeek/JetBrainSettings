@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="COMMON" />
+      <item value="PLACING" />
       <item value="encrypted" />
       <item value="margin Rate" />
       <item value="margin" />
@@ -49,13 +51,11 @@
       <item value="Component" />
       <item value="abstract Map&lt;Long, Integer&gt; loadAccount" />
       <item value="Constituent" />
-      <item value="Transfer" />
-      <item value="constituent Reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
       </map>
