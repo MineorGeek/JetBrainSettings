@@ -10,4 +10,7 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
 </keymap>
