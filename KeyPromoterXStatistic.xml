@@ -65,14 +65,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Show Translation Dialog...">
-        <Item>
-          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
-          <ShortCut>'⌃⌘I'</ShortCut>
-          <Description>Show Translation Dialog...</Description>
-          <Count>13</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -161,6 +153,14 @@
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'⌃⌘I'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'DemoApplication'">
