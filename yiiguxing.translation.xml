@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initiator" />
       <item value="loss" />
       <item value="Curator" />
       <item value="execrpt" />
@@ -50,12 +51,11 @@
       <item value="quantity" />
       <item value="ommission" />
       <item value="Brief" />
-      <item value="Securities" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="FRENCH" value="3" />
         <entry key="NORWEGIAN" value="1" />
       </map>
