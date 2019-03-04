@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partial" />
       <item value="Missing messages are re-transmitted with bi-lateral agreement between both parties" />
       <item value="RejectReasonispopulatedwitherrorinfo" />
       <item value="Reject Reason is populated with error info" />
@@ -50,7 +51,6 @@
       <item value="settle" />
       <item value="FUT" />
       <item value="SEC" />
-      <item value="kid" />
     </histories>
     <option name="languageScores">
       <map>
