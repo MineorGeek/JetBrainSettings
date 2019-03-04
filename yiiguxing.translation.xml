@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Reject Reason is populated with error info" />
+      <item value="Missing messages are re-transmitted with bi-lateral agreement between both parties" />
       <item value="RejectReasonispopulatedwitherrorinfo" />
+      <item value="Reject Reason is populated with error info" />
       <item value="abbreviation" />
       <item value="COMMON" />
       <item value="PLACING" />
@@ -50,7 +51,6 @@
       <item value="FUT" />
       <item value="SEC" />
       <item value="kid" />
-      <item value="interface" />
     </histories>
     <option name="languageScores">
       <map>
