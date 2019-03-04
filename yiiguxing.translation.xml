@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reject Reason is populated with error info" />
+      <item value="RejectReasonispopulatedwitherrorinfo" />
       <item value="abbreviation" />
       <item value="COMMON" />
       <item value="PLACING" />
@@ -49,8 +51,6 @@
       <item value="SEC" />
       <item value="kid" />
       <item value="interface" />
-      <item value="Component" />
-      <item value="abstract Map&lt;Long, Integer&gt; loadAccount" />
     </histories>
     <option name="languageScores">
       <map>
