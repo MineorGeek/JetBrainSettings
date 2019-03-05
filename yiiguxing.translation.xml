@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Metrics" />
+      <item value="it is possible to get a {@link #RECONNECTED} * state after this but you should still consider any locks" />
       <item value="Curator" />
       <item value="Conditional" />
       <item value="portfolio" />
@@ -49,13 +51,11 @@
       <item value="securities" />
       <item value="The term “PAB account” means a proprietary securities account of a broker or dealer (which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer) other than a delivery-versus-payment account or a receipt-versus-payment account. The term does not include an account that has been subordinated to the claims of creditors of the carrying broker or dealer." />
       <item value="Asset" />
-      <item value="settled" />
-      <item value="Cent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
