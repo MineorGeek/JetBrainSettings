@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Curator" />
       <item value="Conditional" />
       <item value="portfolio" />
       <item value="dummy" />
@@ -14,7 +15,6 @@
       <item value="instantiate" />
       <item value="Initiator" />
       <item value="loss" />
-      <item value="Curator" />
       <item value="execrpt" />
       <item value="partial" />
       <item value="Missing messages are re-transmitted with bi-lateral agreement between both parties" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
