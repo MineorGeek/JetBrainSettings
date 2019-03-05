@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'⌥⇧⌘U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Structure">
         <Item>
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
@@ -87,6 +95,14 @@
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>UML.ZoomIn</IdeaActionID>
+          <ShortCut>'⌘+' or '⌘='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
