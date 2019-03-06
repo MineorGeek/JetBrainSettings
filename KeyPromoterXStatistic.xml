@@ -115,6 +115,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <Description>Annotate</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Close All">
         <Item>
           <IdeaActionID>CloseAllEditors</IdeaActionID>
