@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
+      <item value="格式" />
       <item value="冲突" />
       <item value="resolve" />
       <item value="黑名单" />
@@ -49,8 +51,6 @@
       <item value="margin Rate" />
       <item value="margin" />
       <item value="Commission" />
-      <item value="position" />
-      <item value="settle Allocation" />
     </histories>
     <option name="languageScores">
       <map>
