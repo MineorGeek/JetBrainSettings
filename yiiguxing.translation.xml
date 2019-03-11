@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="冲突" />
+      <item value="resolve" />
+      <item value="黑名单" />
       <item value="注入" />
       <item value="omit" />
       <item value="地理位置" />
@@ -48,14 +51,11 @@
       <item value="Commission" />
       <item value="position" />
       <item value="settle Allocation" />
-      <item value="IPO Allocation Type" />
-      <item value="Aggregator" />
-      <item value="Selective" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
