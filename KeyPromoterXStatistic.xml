@@ -41,14 +41,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'AlphaApplication'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'AlphaApplication'</Description>
-          <Count>6</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Debug 'DemoApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -113,14 +105,6 @@
           <Count>8</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Resume Program">
-        <Item>
-          <IdeaActionID>Resume</IdeaActionID>
-          <ShortCut>'F9'</ShortCut>
-          <Description>Resume Program</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -134,7 +118,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Dependencies...">
@@ -150,7 +134,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -159,14 +143,6 @@
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
           <Count>7</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Step Over">
-        <Item>
-          <IdeaActionID>StepOver</IdeaActionID>
-          <ShortCut>'F8'</ShortCut>
-          <Description>Step Over</Description>
-          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -190,7 +166,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
@@ -213,6 +189,14 @@
         <Item>
           <IdeaActionID>CloseAllEditors</IdeaActionID>
           <Description>Close All</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'AlphaApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'AlphaApplication'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -297,6 +281,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ActivityApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -327,6 +319,14 @@
           <ShortCut>'⌃⌘I'</ShortCut>
           <Description>Show Translation Dialog...</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AlphaApplication'">
