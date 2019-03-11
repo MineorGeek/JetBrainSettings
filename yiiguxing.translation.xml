@@ -1,6 +1,23 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eligible" />
+      <item value="security" />
+      <item value="reminder" />
+      <item value="in order to" />
+      <item value="navigate" />
+      <item value="offer" />
+      <item value="in the offer which have not yet been allocated to an election choice." />
+      <item value="participate" />
+      <item value="U****680 has shares eligible to participate in the offer which have not yet been allocated to an election choice." />
+      <item value="shares" />
+      <item value="records" />
+      <item value="expires" />
+      <item value="subject" />
+      <item value="notification" />
+      <item value="asset" />
+      <item value="Delivery" />
+      <item value="CashDelivery" />
       <item value="重构" />
       <item value="拦截器" />
       <item value="注解" />
@@ -34,28 +51,11 @@
       <item value="dummy" />
       <item value="histogram" />
       <item value="metric" />
-      <item value="inundate" />
-      <item value="at once" />
-      <item value="parallelism" />
-      <item value="this determines how many rpc's are sent in at once" />
-      <item value="Finagle" />
-      <item value="instantiate" />
-      <item value="Initiator" />
-      <item value="loss" />
-      <item value="execrpt" />
-      <item value="partial" />
-      <item value="Missing messages are re-transmitted with bi-lateral agreement between both parties" />
-      <item value="RejectReasonispopulatedwitherrorinfo" />
-      <item value="Reject Reason is populated with error info" />
-      <item value="abbreviation" />
-      <item value="COMMON" />
-      <item value="PLACING" />
-      <item value="encrypted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
