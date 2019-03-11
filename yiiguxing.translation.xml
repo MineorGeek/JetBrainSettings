@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重构" />
+      <item value="拦截器" />
+      <item value="注解" />
       <item value="修改" />
       <item value="格式" />
       <item value="冲突" />
@@ -48,9 +51,6 @@
       <item value="COMMON" />
       <item value="PLACING" />
       <item value="encrypted" />
-      <item value="margin Rate" />
-      <item value="margin" />
-      <item value="Commission" />
     </histories>
     <option name="languageScores">
       <map>
