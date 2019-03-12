@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字符" />
+      <item value="下划线" />
+      <item value="构造" />
+      <item value="生成" />
       <item value="存在" />
       <item value="redundancy" />
       <item value="冗余" />
@@ -47,10 +51,6 @@
       <item value="confirms" />
       <item value="correlation" />
       <item value="Metrics" />
-      <item value="it is possible to get a {@link #RECONNECTED} * state after this but you should still consider any locks" />
-      <item value="Curator" />
-      <item value="Conditional" />
-      <item value="portfolio" />
     </histories>
     <option name="languageScores">
       <map>
