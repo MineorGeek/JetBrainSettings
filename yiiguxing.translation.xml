@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化" />
+      <item value="预分配" />
       <item value="驼" />
       <item value="驼峰" />
       <item value="at r" />
@@ -49,8 +51,6 @@
       <item value="地理" />
       <item value="美国ip" />
       <item value="美股" />
-      <item value="Position" />
-      <item value="Corp" />
     </histories>
     <option name="languageScores">
       <map>
