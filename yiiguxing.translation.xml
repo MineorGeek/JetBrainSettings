@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="认购" />
       <item value="忽略" />
       <item value="减号" />
       <item value="heng" />
@@ -50,7 +51,6 @@
       <item value="获取" />
       <item value="US" />
       <item value="美国" />
-      <item value="geography" />
     </histories>
     <option name="languageScores">
       <map>
