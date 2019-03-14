@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化" />
+      <item value="optimizate" />
+      <item value="optimization" />
       <item value="允许部分分配" />
       <item value="支持部分分配" />
       <item value="认购" />
@@ -14,7 +17,6 @@
       <item value="减号" />
       <item value="heng" />
       <item value="字符" />
-      <item value="优化" />
       <item value="预分配" />
       <item value="驼" />
       <item value="驼峰" />
@@ -49,13 +51,11 @@
       <item value="拦截器" />
       <item value="注解" />
       <item value="修改" />
-      <item value="格式" />
-      <item value="冲突" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
