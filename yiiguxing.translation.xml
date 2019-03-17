@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve" />
+      <item value="解析" />
+      <item value="解决" />
+      <item value="分解" />
+      <item value="分析" />
+      <item value="离线" />
       <item value="自增" />
       <item value="认购" />
       <item value="统计" />
@@ -45,17 +51,11 @@
       <item value="navigate" />
       <item value="offer" />
       <item value="in the offer which have not yet been allocated to an election choice." />
-      <item value="participate" />
-      <item value="U****680 has shares eligible to participate in the offer which have not yet been allocated to an election choice." />
-      <item value="shares" />
-      <item value="records" />
-      <item value="expires" />
-      <item value="subject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="172" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
