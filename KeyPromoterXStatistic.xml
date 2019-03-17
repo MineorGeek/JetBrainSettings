@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←'</ShortCut>
           <Description>Back</Description>
-          <Count>6</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -135,6 +135,14 @@
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IPOPreAllocationServiceTest.testApplyOriginAlgorithmForAll'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'IPOPreAllocationServiceTest.testApplyOriginAlgorithmForAll'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set Value...">
