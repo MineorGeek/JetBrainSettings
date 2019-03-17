@@ -209,6 +209,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'IPOPreAllocationServiceTest.testApplyOriginAlgorithmForPart'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IPOPreAllocationServiceTest.testApplyOriginAlgorithmForPart'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IPOPreAllocationServiceTest.testApplyZeroAlgorithmForAll'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IPOPreAllocationServiceTest.testApplyZeroAlgorithmForAll'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
