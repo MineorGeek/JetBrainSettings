@@ -57,20 +57,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'⇧F9'</ShortCut>
-          <Description>Debug 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'</Description>
-          <Count>4</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -129,6 +121,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -169,20 +169,12 @@
           <Count>11</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Stop 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2'</ShortCut>
-          <Description>Stop 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'</Description>
-          <Count>3</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop 'Rerun Failed Tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Rerun Failed Tests'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -214,7 +206,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
@@ -258,6 +250,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'AlphaApplication'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'</Description>
           <Count>7</Count>
         </Item>
       </Statistic>
@@ -405,6 +405,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DemoApplication'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IPOPreAllocationServiceTest.testApplyAlgorithmForAll'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
