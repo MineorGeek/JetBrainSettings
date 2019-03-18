@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'DemoApplication'">
@@ -63,6 +63,14 @@
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'FileExecuteAllocationTask.executeAllocation'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'IPOPreAllocationServiceTest.testApplyProportionalAlgorithmForAll'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⇧F9'</ShortCut>
+          <Description>Debug 'IPOPreAllocationServiceTest.testApplyProportionalAlgorithmForAll'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -214,6 +222,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'IPOPreAllocationServiceTest.testApplyOriginAlgorithmForPart'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IPOPreAllocationServiceTest.testApplyProportionalAlgorithmForAll'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IPOPreAllocationServiceTest.testApplyProportionalAlgorithmForAll'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
