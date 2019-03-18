@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="自定义映射关系" />
       <item value="冲突" />
       <item value="统计结果" />
       <item value="统计" />
@@ -50,7 +51,6 @@
       <item value="eligible" />
       <item value="security" />
       <item value="reminder" />
-      <item value="in order to" />
     </histories>
     <option name="languageScores">
       <map>

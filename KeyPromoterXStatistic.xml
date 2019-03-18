@@ -190,7 +190,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>41</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -198,7 +198,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'FileExecuteAllocationTask.executeAllocation'">
