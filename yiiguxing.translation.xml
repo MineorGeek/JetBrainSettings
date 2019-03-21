@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reconcile" />
       <item value="validate" />
       <item value="校验" />
       <item value="相等" />
       <item value="voluntary" />
       <item value="自愿" />
-      <item value="Reconcile" />
       <item value="Criteria" />
       <item value="validated" />
       <item value="是否跳过已确认记录 " />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
