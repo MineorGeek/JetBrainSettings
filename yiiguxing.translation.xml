@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发布" />
+      <item value="latest" />
+      <item value="最新" />
       <item value="parse" />
       <item value="Reconcile" />
       <item value="validate" />
@@ -48,14 +51,11 @@
       <item value="区分" />
       <item value="忽略" />
       <item value="减号" />
-      <item value="heng" />
-      <item value="字符" />
-      <item value="预分配" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
