@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parse" />
       <item value="Reconcile" />
       <item value="validate" />
       <item value="校验" />
@@ -19,7 +20,6 @@
       <item value="冲突" />
       <item value="统计结果" />
       <item value="统计" />
-      <item value="parse" />
       <item value="resolve" />
       <item value="解析" />
       <item value="解决" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
+        <entry key="CHINESE" value="181" />
         <entry key="ENGLISH" value="181" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
