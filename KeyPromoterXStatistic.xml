@@ -9,6 +9,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -135,14 +143,6 @@
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>6</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Refresh">
-        <Item>
-          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
-          <ShortCut>'⌃F5'</ShortCut>
-          <Description>Refresh</Description>
-          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -310,7 +310,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>55</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -431,6 +431,14 @@
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reimport All Maven Projects">
