@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Upcoming with no positions but all other details instead" />
       <item value="通知" />
       <item value="消息" />
       <item value="xiaoxi" />
@@ -50,11 +51,10 @@
       <item value="支持部分分配" />
       <item value="multi-" />
       <item value="多" />
-      <item value="differentiate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
+        <entry key="CHINESE" value="185" />
         <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
