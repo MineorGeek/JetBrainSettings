@@ -94,7 +94,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌃N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -126,7 +126,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'⌥Q'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
