@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
       <item value="自愿" />
       <item value="非自愿" />
       <item value="notification" />
@@ -12,7 +13,6 @@
       <item value="Upcoming with no positions but all other details instead" />
       <item value="消息" />
       <item value="xiaoxi" />
-      <item value="修改" />
       <item value="motify" />
       <item value="发布" />
       <item value="latest" />
