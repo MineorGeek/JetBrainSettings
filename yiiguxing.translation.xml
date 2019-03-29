@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="In the absence of an election, no action will be taken, and shareholders will receive the default distribution in accordance with Option 4: * mixed consideration" />
+      <item value="However what’s showing in tag 58 would be a FIX level reject so it’s not common" />
+      <item value="roll out" />
+      <item value="extent" />
+      <item value="certain" />
+      <item value="accommodate" />
+      <item value="comparatively" />
+      <item value="Paper" />
+      <item value="testing" />
+      <item value="QA / Paper testing support is comparatively limited on CA FIXML but we may be able accommodate to a certain extent after you have finished developing, before you roll out for PROD." />
+      <item value="delivery" />
       <item value="Canonical" />
       <item value="correlation" />
       <item value="durable" />
@@ -40,22 +51,11 @@
       <item value="指定" />
       <item value="定向分配" />
       <item value="自定义映射关系" />
-      <item value="冲突" />
-      <item value="统计结果" />
-      <item value="统计" />
-      <item value="resolve" />
-      <item value="解析" />
-      <item value="解决" />
-      <item value="分解" />
-      <item value="分析" />
-      <item value="离线" />
-      <item value="自增" />
-      <item value="认购" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
