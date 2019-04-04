@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interact" />
+      <item value="concrete" />
+      <item value="targeted" />
+      <item value="p&gt;Useful for custom config files targeted at system administrators that * override bean properties configured in the application context." />
+      <item value="underlying" />
+      <item value="Allows for custom modification of an application context's bean definitions, * adapting the bean property values of the context's underlying bean factory." />
+      <item value="This allows for adding further * bean definitions before the next post-processing phase kicks in." />
+      <item value="instantiated" />
+      <item value="internal" />
+      <item value="In particular, * BeanDefinitionRegistryPostProcessor may register further bean definitions * which in turn define BeanFactoryPostProcessor instances." />
+      <item value="kicks in" />
+      <item value="registration" />
       <item value="Assignable" />
       <item value="自定义" />
       <item value="匹配" />
@@ -39,23 +51,11 @@
       <item value="自愿" />
       <item value="非自愿" />
       <item value="notification" />
-      <item value="通知" />
-      <item value="时刻" />
-      <item value="时间点" />
-      <item value="extracted" />
-      <item value="提交" />
-      <item value="Upcoming with no positions but all other details instead" />
-      <item value="消息" />
-      <item value="xiaoxi" />
-      <item value="motify" />
-      <item value="发布" />
-      <item value="最新" />
-      <item value="parse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
