@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verification" />
+      <item value="verificate" />
+      <item value="验证" />
+      <item value="valitile" />
+      <item value="vali" />
+      <item value="校验" />
       <item value="opaque" />
       <item value="symmetric" />
       <item value="latest" />
@@ -44,18 +50,12 @@
       <item value="parse" />
       <item value="Reconcile" />
       <item value="validate" />
-      <item value="校验" />
       <item value="相等" />
-      <item value="voluntary" />
-      <item value="Criteria" />
-      <item value="validated" />
-      <item value="是否跳过已确认记录 " />
-      <item value="最小分配单位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
