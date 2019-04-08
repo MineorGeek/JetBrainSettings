@@ -1,16 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Beneficiary" />
+      <item value="participant" />
+      <item value="unique" />
+      <item value="Mandatory" />
+      <item value="Indicator" />
+      <item value="Each record contains 86 bytes, followed by a 2-byte record delimiter" />
+      <item value="followed" />
+      <item value="batch" />
+      <item value="Should" />
+      <item value="inconsistency" />
+      <item value="further" />
+      <item value="trailer" />
+      <item value="Control trailer further protects the file using count of detail records and hash totals." />
+      <item value="categories" />
       <item value="mega" />
       <item value="Should overflow occur, the leading digit will be discarded." />
       <item value="the count of detail records and&#10;hash totals in the control trailer rec" />
       <item value="indicated" />
-      <item value="inconsistency" />
-      <item value="Control trailer further protects the file using count of detail records and hash totals." />
-      <item value="further" />
       <item value="Control" />
       <item value="relevant" />
-      <item value="trailer" />
       <item value="essential" />
       <item value="sequential" />
       <item value="carriage" />
@@ -41,21 +51,11 @@
       <item value="Assignable" />
       <item value="自定义" />
       <item value="匹配" />
-      <item value="verification" />
-      <item value="verificate" />
-      <item value="验证" />
-      <item value="valitile" />
-      <item value="vali" />
-      <item value="校验" />
-      <item value="opaque" />
-      <item value="symmetric" />
-      <item value="latest" />
-      <item value="lasted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="260" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
