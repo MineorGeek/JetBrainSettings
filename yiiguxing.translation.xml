@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mega" />
+      <item value="Should overflow occur, the leading digit will be discarded." />
+      <item value="the count of detail records and&#10;hash totals in the control trailer rec" />
+      <item value="indicated" />
+      <item value="inconsistency" />
+      <item value="Control trailer further protects the file using count of detail records and hash totals." />
+      <item value="further" />
+      <item value="Control" />
+      <item value="relevant" />
+      <item value="trailer" />
+      <item value="essential" />
+      <item value="sequential" />
       <item value="carriage" />
       <item value="delimiter" />
       <item value="interchange" />
@@ -39,23 +51,11 @@
       <item value="symmetric" />
       <item value="latest" />
       <item value="lasted" />
-      <item value="lased" />
-      <item value="最近的" />
-      <item value="In the absence of an election, no action will be taken, and shareholders will receive the default distribution in accordance with Option 4: * mixed consideration" />
-      <item value="However what’s showing in tag 58 would be a FIX level reject so it’s not common" />
-      <item value="roll out" />
-      <item value="extent" />
-      <item value="certain" />
-      <item value="accommodate" />
-      <item value="comparatively" />
-      <item value="Paper" />
-      <item value="testing" />
-      <item value="QA / Paper testing support is comparatively limited on CA FIXML but we may be able accommodate to a certain extent after you have finished developing, before you roll out for PROD." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
