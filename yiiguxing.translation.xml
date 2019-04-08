@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="回执" />
+      <item value="结果" />
+      <item value="反馈" />
       <item value="Beneficiary" />
       <item value="participant" />
       <item value="unique" />
@@ -48,14 +51,11 @@
       <item value="In particular, * BeanDefinitionRegistryPostProcessor may register further bean definitions * which in turn define BeanFactoryPostProcessor instances." />
       <item value="kicks in" />
       <item value="registration" />
-      <item value="Assignable" />
-      <item value="自定义" />
-      <item value="匹配" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
