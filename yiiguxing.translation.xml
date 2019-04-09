@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The user profile maintenance functions will be primarily performed by the participants. HKSCC will distribute smartcards to the participants and assign a user ID for each of the smartcards. Each participant should assign at least two delegated administrators (DAs), acting separately as a maker and a checker to perform the user profile maintenance functions including change and delete of user profile and reset smartcard passwords. Please refer to table 3.2.1 for the full list of security functions." />
+      <item value="Highlighted below are the recommended PC configurations for C3Ts. For the latest C3T configuration details, participants are advised to refer to the CCASS/3 Terminal Installation Procedures, which is available at HKEX website." />
+      <item value="Participants are required to access CCASS host system by direct electronic linkage through a C3T or multiple C3Ts, to be installed at the participants’ offices. Participants are responsible for obtaining their own C3Ts. They should apply for and arrange the installation of the required SDNet/2 data communication links from the accredited vendor(s). Participants are also responsible for all costs (for example, maintenance or otherwise) relating to their C3Ts, such as related peripherals (hub, cable) and PC software." />
+      <item value="presentation" />
+      <item value="All participants can access CCASS host system through a browser-based terminal, the CCASS/3 Terminal (C3T), which will use market standard browser-based technology. All participant functions will be provided with an HTML (WindowsTM) based presentation. This will provide a user-friendly graphical interface and will reduce training needs for participants." />
+      <item value="This will provide a user-friendly graphical interface and will reduce training needs for participants." />
+      <item value="a browser-based terminal" />
       <item value="enquire" />
       <item value="The application period varies for different EIPO. " />
       <item value="authoriser" />
@@ -44,18 +51,11 @@
       <item value="hash totals in the control trailer record are all confined to the data size value specified in the data size column of the record layout." />
       <item value="confined" />
       <item value="The maximum length of the record checksum in the detail record, the count of detail records and hash totals in the control trailer record are all confined to the data size value specified in the data size column of the record layout." />
-      <item value="回执" />
-      <item value="结果" />
-      <item value="反馈" />
-      <item value="Beneficiary" />
-      <item value="participant" />
-      <item value="unique" />
-      <item value="Mandatory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
