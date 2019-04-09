@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notification on the availability of various online reports, such as Provisional Clearing Statement / Final Clearing Statement and Settled Position Report will also be displayed via the Enquire Broadcast Message." />
       <item value="To enquire on the details of authorised EIPO announcements" />
       <item value="The user profile maintenance functions will be primarily performed by the participants. HKSCC will distribute smartcards to the participants and assign a user ID for each of the smartcards. Each participant should assign at least two delegated administrators (DAs), acting separately as a maker and a checker to perform the user profile maintenance functions including change and delete of user profile and reset smartcard passwords. Please refer to table 3.2.1 for the full list of security functions." />
       <item value="Highlighted below are the recommended PC configurations for C3Ts. For the latest C3T configuration details, participants are advised to refer to the CCASS/3 Terminal Installation Procedures, which is available at HKEX website." />
@@ -50,12 +51,11 @@
       <item value="amendment" />
       <item value="Infrastructure" />
       <item value="hash totals in the control trailer record are all confined to the data size value specified in the data size column of the record layout." />
-      <item value="confined" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
