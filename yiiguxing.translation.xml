@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enquire" />
+      <item value="The application period varies for different EIPO. " />
       <item value="authoriser" />
       <item value="Individual record will be processed in the order as in the uploaded EIPO batch file." />
       <item value="stipulated" />
@@ -49,8 +51,6 @@
       <item value="participant" />
       <item value="unique" />
       <item value="Mandatory" />
-      <item value="Indicator" />
-      <item value="Each record contains 86 bytes, followed by a 2-byte record delimiter" />
     </histories>
     <option name="languageScores">
       <map>
