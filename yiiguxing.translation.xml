@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enquiry" />
+      <item value="functions" />
+      <item value="reports" />
+      <item value="The term &quot;CCASS Participants&quot; used throughout the Guide normally refers to Participants other than Investor Participants, unless specified otherwise." />
+      <item value="otherwise" />
+      <item value="specified" />
+      <item value="Investor" />
+      <item value="other than" />
+      <item value="it is not intended to be comprehensive." />
+      <item value="intended" />
+      <item value="comprehensive" />
+      <item value="relevant" />
+      <item value="sections" />
+      <item value="report" />
+      <item value="distribution" />
+      <item value="Custodian" />
+      <item value=" All instructions and activities in CCASS are subject to the General Rules of CCASS and CCASS Operational Procedures." />
+      <item value="amendment" />
+      <item value="Infrastructure" />
       <item value="hash totals in the control trailer record are all confined to the data size value specified in the data size column of the record layout." />
       <item value="confined" />
       <item value="The maximum length of the record checksum in the detail record, the count of detail records and hash totals in the control trailer record are all confined to the data size value specified in the data size column of the record layout." />
@@ -26,36 +45,17 @@
       <item value="the count of detail records and&#10;hash totals in the control trailer rec" />
       <item value="indicated" />
       <item value="Control" />
-      <item value="relevant" />
       <item value="essential" />
       <item value="sequential" />
       <item value="carriage" />
       <item value="delimiter" />
       <item value="interchange" />
       <item value="adopted" />
-      <item value="section" />
-      <item value="duplicating" />
-      <item value="efforts" />
-      <item value="volumes" />
-      <item value="CCASS" />
-      <item value="participants" />
-      <item value="available" />
-      <item value="Transfer" />
-      <item value="Electronic" />
-      <item value="interact" />
-      <item value="concrete" />
-      <item value="targeted" />
-      <item value="p&gt;Useful for custom config files targeted at system administrators that * override bean properties configured in the application context." />
-      <item value="underlying" />
-      <item value="Allows for custom modification of an application context's bean definitions, * adapting the bean property values of the context's underlying bean factory." />
-      <item value="This allows for adding further * bean definitions before the next post-processing phase kicks in." />
-      <item value="instantiated" />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="264" />
+        <entry key="CHINESE" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
