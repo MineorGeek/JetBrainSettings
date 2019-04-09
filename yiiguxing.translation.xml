@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hash totals in the control trailer record are all confined to the data size value specified in the data size column of the record layout." />
+      <item value="confined" />
+      <item value="The maximum length of the record checksum in the detail record, the count of detail records and hash totals in the control trailer record are all confined to the data size value specified in the data size column of the record layout." />
       <item value="回执" />
       <item value="结果" />
       <item value="反馈" />
@@ -48,14 +51,11 @@
       <item value="This allows for adding further * bean definitions before the next post-processing phase kicks in." />
       <item value="instantiated" />
       <item value="internal" />
-      <item value="In particular, * BeanDefinitionRegistryPostProcessor may register further bean definitions * which in turn define BeanFactoryPostProcessor instances." />
-      <item value="kicks in" />
-      <item value="registration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
