@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="padding" />
+      <item value="填充" />
       <item value="alternative" />
       <item value="Convenient" />
       <item value="Encoder" />
@@ -49,12 +51,10 @@
       <item value="other than" />
       <item value="it is not intended to be comprehensive." />
       <item value="intended" />
-      <item value="comprehensive" />
-      <item value="relevant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
+        <entry key="CHINESE" value="314" />
         <entry key="ENGLISH" value="314" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
