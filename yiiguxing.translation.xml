@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字符串" />
+      <item value="展开" />
       <item value="padding" />
       <item value="填充" />
       <item value="alternative" />
@@ -49,13 +51,11 @@
       <item value="specified" />
       <item value="Investor" />
       <item value="other than" />
-      <item value="it is not intended to be comprehensive." />
-      <item value="intended" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="ENGLISH" value="315" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
