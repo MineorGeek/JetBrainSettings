@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可到达的" />
+      <item value="终点" />
+      <item value="重点" />
+      <item value="出发" />
+      <item value="实际" />
+      <item value="地图" />
       <item value="字符串" />
       <item value="展开" />
       <item value="padding" />
@@ -45,12 +51,6 @@
       <item value="Any EIPO files uploaded beyond the latest validation runs," />
       <item value="enquiry" />
       <item value="functions" />
-      <item value="reports" />
-      <item value="The term &quot;CCASS Participants&quot; used throughout the Guide normally refers to Participants other than Investor Participants, unless specified otherwise." />
-      <item value="otherwise" />
-      <item value="specified" />
-      <item value="Investor" />
-      <item value="other than" />
     </histories>
     <option name="languageScores">
       <map>
