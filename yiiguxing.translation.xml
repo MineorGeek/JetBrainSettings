@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Part Own File Reference" />
+      <item value="Even with ISIN entered, &quot;00000&quot; or spaces should be entered for numeric field validation." />
       <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
       <item value="notification" />
       <item value="通知" />
@@ -49,8 +51,6 @@
       <item value="An error message will be prompted on screen to alert users upon rejection of file upload" />
       <item value="upon" />
       <item value="prompted" />
-      <item value="uploaded" />
-      <item value="on EIPO application end date" />
     </histories>
     <option name="languageScores">
       <map>
