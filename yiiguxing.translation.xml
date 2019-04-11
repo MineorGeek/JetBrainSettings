@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transmission" />
+      <item value="defaulted" />
+      <item value="if a Clearing Participant which is also an Exchange&#10;Participant of SEHK enters instruction, the field might&#10;be defaulted to its broker number;" />
+      <item value="enters" />
+      <item value="SEHK" />
+      <item value="f a Clearing Participant which is also an Exchange Participant of SEHK enters instruction, the field might be defaulted to its broker number; - leading zeros will be added if the broker seat number entered is shorter than 5 digits. - optional field." />
+      <item value="Business Registration Number of  Beneficiary Owner " />
+      <item value="Beneficiary" />
       <item value="Part Own File Reference" />
       <item value="Even with ISIN entered, &quot;00000&quot; or spaces should be entered for numeric field validation." />
       <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
@@ -43,21 +51,14 @@
       <item value="The application period varies for different EIPO. " />
       <item value="Individual record will be processed in the order as in the uploaded EIPO batch file." />
       <item value="stipulated" />
-      <item value="DOS" />
-      <item value="Instead of inputting the EIPO applications one at a time by on-line data entry," />
-      <item value="inputting" />
-      <item value="Instead of" />
-      <item value="indicate" />
-      <item value="An error message will be prompted on screen to alert users upon rejection of file upload" />
-      <item value="upon" />
-      <item value="prompted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="317" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="320" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="MALAY" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="GREEK" value="1" />
