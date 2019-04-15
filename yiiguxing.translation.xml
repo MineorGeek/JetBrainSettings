@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subscriptions" />
+      <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
       <item value="explanation" />
       <item value="Transmission" />
       <item value="defaulted" />
@@ -12,7 +14,6 @@
       <item value="Beneficiary" />
       <item value="Part Own File Reference" />
       <item value="Even with ISIN entered, &quot;00000&quot; or spaces should be entered for numeric field validation." />
-      <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
       <item value="notification" />
       <item value="通知" />
       <item value="处理" />
@@ -50,7 +51,6 @@
       <item value="a browser-based terminal" />
       <item value="enquire" />
       <item value="The application period varies for different EIPO. " />
-      <item value="Individual record will be processed in the order as in the uploaded EIPO batch file." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,11 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
