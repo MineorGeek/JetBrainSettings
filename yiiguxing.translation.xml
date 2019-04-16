@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
+      <item value="正则" />
+      <item value="增则" />
+      <item value="设置" />
+      <item value="谁" />
       <item value="infinity" />
       <item value="生成" />
       <item value="subscriptions" />
@@ -46,11 +51,6 @@
       <item value="To enquire on the details of authorised EIPO announcements" />
       <item value="The user profile maintenance functions will be primarily performed by the participants. HKSCC will distribute smartcards to the participants and assign a user ID for each of the smartcards. Each participant should assign at least two delegated administrators (DAs), acting separately as a maker and a checker to perform the user profile maintenance functions including change and delete of user profile and reset smartcard passwords. Please refer to table 3.2.1 for the full list of security functions." />
       <item value="Highlighted below are the recommended PC configurations for C3Ts. For the latest C3T configuration details, participants are advised to refer to the CCASS/3 Terminal Installation Procedures, which is available at HKEX website." />
-      <item value="Participants are required to access CCASS host system by direct electronic linkage through a C3T or multiple C3Ts, to be installed at the participants’ offices. Participants are responsible for obtaining their own C3Ts. They should apply for and arrange the installation of the required SDNet/2 data communication links from the accredited vendor(s). Participants are also responsible for all costs (for example, maintenance or otherwise) relating to their C3Ts, such as related peripherals (hub, cable) and PC software." />
-      <item value="presentation" />
-      <item value="All participants can access CCASS host system through a browser-based terminal, the CCASS/3 Terminal (C3T), which will use market standard browser-based technology. All participant functions will be provided with an HTML (WindowsTM) based presentation. This will provide a user-friendly graphical interface and will reduce training needs for participants." />
-      <item value="This will provide a user-friendly graphical interface and will reduce training needs for participants." />
-      <item value="a browser-based terminal" />
     </histories>
     <option name="languageScores">
       <map>
