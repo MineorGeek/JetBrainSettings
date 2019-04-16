@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infinity" />
       <item value="生成" />
       <item value="subscriptions" />
       <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
@@ -50,12 +51,11 @@
       <item value="All participants can access CCASS host system through a browser-based terminal, the CCASS/3 Terminal (C3T), which will use market standard browser-based technology. All participant functions will be provided with an HTML (WindowsTM) based presentation. This will provide a user-friendly graphical interface and will reduce training needs for participants." />
       <item value="This will provide a user-friendly graphical interface and will reduce training needs for participants." />
       <item value="a browser-based terminal" />
-      <item value="enquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
