@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="生成" />
       <item value="subscriptions" />
       <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
       <item value="explanation" />
@@ -50,12 +51,11 @@
       <item value="This will provide a user-friendly graphical interface and will reduce training needs for participants." />
       <item value="a browser-based terminal" />
       <item value="enquire" />
-      <item value="The application period varies for different EIPO. " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
