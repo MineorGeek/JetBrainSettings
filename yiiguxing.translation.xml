@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="一致" />
+      <item value="主从" />
+      <item value="从" />
       <item value="前缀" />
       <item value="正则" />
       <item value="增则" />
@@ -48,9 +51,6 @@
       <item value="authory" />
       <item value="authoriser" />
       <item value="Notification on the availability of various online reports, such as Provisional Clearing Statement / Final Clearing Statement and Settled Position Report will also be displayed via the Enquire Broadcast Message." />
-      <item value="To enquire on the details of authorised EIPO announcements" />
-      <item value="The user profile maintenance functions will be primarily performed by the participants. HKSCC will distribute smartcards to the participants and assign a user ID for each of the smartcards. Each participant should assign at least two delegated administrators (DAs), acting separately as a maker and a checker to perform the user profile maintenance functions including change and delete of user profile and reset smartcard passwords. Please refer to table 3.2.1 for the full list of security functions." />
-      <item value="Highlighted below are the recommended PC configurations for C3Ts. For the latest C3T configuration details, participants are advised to refer to the CCASS/3 Terminal Installation Procedures, which is available at HKEX website." />
     </histories>
     <option name="languageScores">
       <map>
