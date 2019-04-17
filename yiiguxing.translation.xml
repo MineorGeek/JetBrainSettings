@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The presence of this annotation on a method indicates that the method may * &lt;em&gt;not&lt;/em&gt; be used with the * &lt;a href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT), * even though its type is annotated as {@link GwtCompatible} and accessible in * GWT. They can cause GWT compilation errors or simply unexpected exceptions * when used in GWT." />
       <item value="一致" />
       <item value="主从" />
       <item value="从" />
@@ -50,12 +51,11 @@
       <item value="author" />
       <item value="authory" />
       <item value="authoriser" />
-      <item value="Notification on the availability of various online reports, such as Provisional Clearing Statement / Final Clearing Statement and Settled Position Report will also be displayed via the Enquire Broadcast Message." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="CHINESE" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
