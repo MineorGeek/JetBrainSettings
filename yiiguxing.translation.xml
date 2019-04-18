@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validate" />
       <item value="汇总" />
       <item value="Conversion" />
       <item value="转换" />
@@ -50,11 +51,10 @@
       <item value="展开" />
       <item value="padding" />
       <item value="填充" />
-      <item value="alternative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
+        <entry key="CHINESE" value="327" />
         <entry key="ENGLISH" value="327" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
