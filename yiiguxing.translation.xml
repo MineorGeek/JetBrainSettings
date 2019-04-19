@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discussion" />
+      <item value="讨论" />
       <item value="restrict" />
       <item value="限制" />
       <item value="分组" />
@@ -49,13 +51,11 @@
       <item value="pending" />
       <item value="可到达的" />
       <item value="终点" />
-      <item value="重点" />
-      <item value="出发" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="330" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
