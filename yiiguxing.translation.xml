@@ -1,6 +1,36 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discussion" />
+      <item value="讨论" />
+      <item value="restrict" />
+      <item value="限制" />
+      <item value="分组" />
+      <item value="effective" />
+      <item value="valid" />
+      <item value="有效" />
+      <item value="validate" />
+      <item value="汇总" />
+      <item value="Conversion" />
+      <item value="转换" />
+      <item value="Conventer" />
+      <item value="Converter" />
+      <item value="认购" />
+      <item value="iSIN" />
+      <item value="申请" />
+      <item value="The presence of this annotation on a method indicates that the method may * &lt;em&gt;not&lt;/em&gt; be used with the * &lt;a href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT), * even though its type is annotated as {@link GwtCompatible} and accessible in * GWT. They can cause GWT compilation errors or simply unexpected exceptions * when used in GWT." />
+      <item value="一致" />
+      <item value="主从" />
+      <item value="从" />
+      <item value="前缀" />
+      <item value="正则" />
+      <item value="增则" />
+      <item value="设置" />
+      <item value="谁" />
+      <item value="infinity" />
+      <item value="生成" />
+      <item value="subscriptions" />
+      <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
       <item value="explanation" />
       <item value="Transmission" />
       <item value="defaulted" />
@@ -12,7 +42,6 @@
       <item value="Beneficiary" />
       <item value="Part Own File Reference" />
       <item value="Even with ISIN entered, &quot;00000&quot; or spaces should be entered for numeric field validation." />
-      <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
       <item value="notification" />
       <item value="通知" />
       <item value="处理" />
@@ -22,40 +51,11 @@
       <item value="pending" />
       <item value="可到达的" />
       <item value="终点" />
-      <item value="重点" />
-      <item value="出发" />
-      <item value="实际" />
-      <item value="地图" />
-      <item value="字符串" />
-      <item value="展开" />
-      <item value="padding" />
-      <item value="填充" />
-      <item value="alternative" />
-      <item value="Convenient" />
-      <item value="Encoder" />
-      <item value="authorise" />
-      <item value="authorised" />
-      <item value="authorized" />
-      <item value="author" />
-      <item value="authory" />
-      <item value="authoriser" />
-      <item value="Notification on the availability of various online reports, such as Provisional Clearing Statement / Final Clearing Statement and Settled Position Report will also be displayed via the Enquire Broadcast Message." />
-      <item value="To enquire on the details of authorised EIPO announcements" />
-      <item value="The user profile maintenance functions will be primarily performed by the participants. HKSCC will distribute smartcards to the participants and assign a user ID for each of the smartcards. Each participant should assign at least two delegated administrators (DAs), acting separately as a maker and a checker to perform the user profile maintenance functions including change and delete of user profile and reset smartcard passwords. Please refer to table 3.2.1 for the full list of security functions." />
-      <item value="Highlighted below are the recommended PC configurations for C3Ts. For the latest C3T configuration details, participants are advised to refer to the CCASS/3 Terminal Installation Procedures, which is available at HKEX website." />
-      <item value="Participants are required to access CCASS host system by direct electronic linkage through a C3T or multiple C3Ts, to be installed at the participants’ offices. Participants are responsible for obtaining their own C3Ts. They should apply for and arrange the installation of the required SDNet/2 data communication links from the accredited vendor(s). Participants are also responsible for all costs (for example, maintenance or otherwise) relating to their C3Ts, such as related peripherals (hub, cable) and PC software." />
-      <item value="presentation" />
-      <item value="All participants can access CCASS host system through a browser-based terminal, the CCASS/3 Terminal (C3T), which will use market standard browser-based technology. All participant functions will be provided with an HTML (WindowsTM) based presentation. This will provide a user-friendly graphical interface and will reduce training needs for participants." />
-      <item value="This will provide a user-friendly graphical interface and will reduce training needs for participants." />
-      <item value="a browser-based terminal" />
-      <item value="enquire" />
-      <item value="The application period varies for different EIPO. " />
-      <item value="Individual record will be processed in the order as in the uploaded EIPO batch file." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="330" />
         <entry key="FRENCH" value="3" />
         <entry key="ROMANIAN" value="1" />
         <entry key="MALAY" value="1" />
@@ -66,6 +66,11 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
