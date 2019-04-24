@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="小数部分" />
+      <item value="小数" />
+      <item value="整数部分" />
       <item value="生成" />
       <item value="correcting" />
       <item value="Yes ar" />
