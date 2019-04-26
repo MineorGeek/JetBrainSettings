@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平均" />
       <item value="For the FIX CA service, we don’t usually offer testing environment due to the nature of CA events not being able to be supported properly in non PROD environments." />
       <item value="小数部分" />
       <item value="小数" />
@@ -15,7 +16,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
