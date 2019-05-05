@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Share Posting Date" />
+      <item value="Refund Date" />
       <item value="account has not config" />
       <item value="未" />
       <item value="Reminder Section" />
