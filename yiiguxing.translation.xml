@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手动" />
+      <item value="待处理" />
       <item value="Winning" />
       <item value="中签" />
       <item value="中签率" />
@@ -49,13 +51,11 @@
       <item value="整数部分" />
       <item value="生成" />
       <item value="correcting" />
-      <item value="Yes ar" />
-      <item value="ar" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
