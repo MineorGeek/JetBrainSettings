@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Interface that specified a basic set of Redis operations, implemented by {@link RedisTemplate}. Not often used but a * useful option for extensibility and testability (as it can be easily mocked or stubbed)." />
       <item value="CLIENT" />
       <item value="PARTITION" />
       <item value="finra" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
