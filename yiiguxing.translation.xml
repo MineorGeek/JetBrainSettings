@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Commission" />
       <item value="Equity with Loan Value" />
       <item value="Executes the commands in the pipeline and returns their result. If the connection is not pipelined, an empty * collection is returned." />
       <item value="* Interface that specified a basic set of Redis operations, implemented by {@link RedisTemplate}. Not often used but a * useful option for extensibility and testability (as it can be easily mocked or stubbed)." />
@@ -52,7 +53,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
