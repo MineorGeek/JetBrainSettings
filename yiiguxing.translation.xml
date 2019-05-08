@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portfolio" />
       <item value="register" />
       <item value="注册" />
       <item value="手动" />
@@ -50,12 +51,11 @@
       <item value="For the FIX CA service, we don’t usually offer testing environment due to the nature of CA events not being able to be supported properly in non PROD environments." />
       <item value="小数部分" />
       <item value="小数" />
-      <item value="整数部分" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
