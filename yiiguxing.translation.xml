@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="流程" />
+      <item value="处理" />
       <item value="Throttle" />
       <item value="流程优化" />
       <item value="scale" />
@@ -49,8 +51,6 @@
       <item value="未" />
       <item value="Reminder Section" />
       <item value="Reserved" />
-      <item value="未使用" />
-      <item value="增量" />
     </histories>
     <option name="languageScores">
       <map>
