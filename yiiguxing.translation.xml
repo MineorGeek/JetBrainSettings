@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="期待" />
+      <item value="确认" />
+      <item value="queren" />
+      <item value="ack" />
       <item value="流程" />
       <item value="处理" />
       <item value="Throttle" />
@@ -47,15 +51,11 @@
       <item value="FUT" />
       <item value="Share Posting Date" />
       <item value="Refund Date" />
-      <item value="account has not config" />
-      <item value="未" />
-      <item value="Reminder Section" />
-      <item value="Reserved" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
