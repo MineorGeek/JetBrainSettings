@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手动" />
       <item value="tomorrow" />
       <item value="算法" />
       <item value="大" />
@@ -30,7 +31,6 @@
       <item value="portfolio" />
       <item value="register" />
       <item value="注册" />
-      <item value="手动" />
       <item value="待处理" />
       <item value="Winning" />
       <item value="中签" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
