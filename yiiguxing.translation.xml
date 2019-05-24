@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="白名单" />
+      <item value="自动化" />
       <item value="手动" />
       <item value="tomorrow" />
       <item value="算法" />
@@ -49,8 +51,6 @@
       <item value="Fee" />
       <item value="commission" />
       <item value="evaluate" />
-      <item value="Securities" />
-      <item value="Derivatives" />
     </histories>
     <option name="languageScores">
       <map>
