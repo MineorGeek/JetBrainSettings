@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="warning" />
+      <item value="warn" />
+      <item value="提醒" />
+      <item value="Suppress" />
+      <item value="SuppressWarnings" />
+      <item value="忽略提醒" />
+      <item value="忽略提示" />
       <item value="白名单" />
       <item value="自动化" />
       <item value="手动" />
@@ -44,18 +51,11 @@
       <item value="* Interface that specified a basic set of Redis operations, implemented by {@link RedisTemplate}. Not often used but a * useful option for extensibility and testability (as it can be easily mocked or stubbed)." />
       <item value="CLIENT" />
       <item value="PARTITION" />
-      <item value="finra" />
-      <item value="accrued" />
-      <item value="process" />
-      <item value="transaction" />
-      <item value="Fee" />
-      <item value="commission" />
-      <item value="evaluate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="31" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
