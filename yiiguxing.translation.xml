@@ -1,67 +1,64 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="燃料" />
-      <item value="discussion" />
-      <item value="讨论" />
-      <item value="restrict" />
-      <item value="限制" />
-      <item value="分组" />
-      <item value="effective" />
-      <item value="valid" />
-      <item value="有效" />
-      <item value="validate" />
-      <item value="汇总" />
-      <item value="Conversion" />
-      <item value="转换" />
-      <item value="Conventer" />
-      <item value="Converter" />
-      <item value="认购" />
-      <item value="iSIN" />
-      <item value="申请" />
-      <item value="The presence of this annotation on a method indicates that the method may * &lt;em&gt;not&lt;/em&gt; be used with the * &lt;a href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT), * even though its type is annotated as {@link GwtCompatible} and accessible in * GWT. They can cause GWT compilation errors or simply unexpected exceptions * when used in GWT." />
-      <item value="一致" />
-      <item value="主从" />
-      <item value="从" />
-      <item value="前缀" />
-      <item value="正则" />
-      <item value="增则" />
-      <item value="设置" />
-      <item value="谁" />
-      <item value="infinity" />
-      <item value="生成" />
-      <item value="subscriptions" />
-      <item value="Mandatory, unique indicator assigned by participant, cannot be re-used within same day" />
-      <item value="explanation" />
-      <item value="Transmission" />
-      <item value="defaulted" />
-      <item value="if a Clearing Participant which is also an Exchange&#10;Participant of SEHK enters instruction, the field might&#10;be defaulted to its broker number;" />
-      <item value="enters" />
-      <item value="SEHK" />
-      <item value="f a Clearing Participant which is also an Exchange Participant of SEHK enters instruction, the field might be defaulted to its broker number; - leading zeros will be added if the broker seat number entered is shorter than 5 digits. - optional field." />
-      <item value="Business Registration Number of  Beneficiary Owner " />
-      <item value="Beneficiary" />
-      <item value="Part Own File Reference" />
-      <item value="Even with ISIN entered, &quot;00000&quot; or spaces should be entered for numeric field validation." />
-      <item value="notification" />
-      <item value="通知" />
-      <item value="处理" />
-      <item value="check" />
-      <item value="verify" />
+      <item value="margin" />
+      <item value="可融资的" />
+      <item value="未确认" />
+      <item value="warning" />
+      <item value="warn" />
+      <item value="提醒" />
+      <item value="Suppress" />
+      <item value="SuppressWarnings" />
+      <item value="忽略提醒" />
+      <item value="忽略提示" />
+      <item value="白名单" />
+      <item value="自动化" />
+      <item value="手动" />
+      <item value="tomorrow" />
+      <item value="算法" />
+      <item value="大" />
+      <item value="期待" />
       <item value="确认" />
-      <item value="pending" />
-      <item value="可到达的" />
+      <item value="queren" />
+      <item value="ack" />
+      <item value="流程" />
+      <item value="处理" />
+      <item value="Throttle" />
+      <item value="流程优化" />
+      <item value="scale" />
+      <item value="优化" />
+      <item value="signature" />
+      <item value="ignature" />
+      <item value="schema" />
+      <item value="should" />
+      <item value="virus" />
+      <item value="Further to our phone chats, Kindly pls. help to check and let me know that how to fix this issue  in GTS.  Many thanks !!!!" />
+      <item value="Gaussian" />
+      <item value="时间戳" />
+      <item value="签名" />
+      <item value="Condition" />
+      <item value="organization" />
+      <item value="机构" />
+      <item value="分发器" />
+      <item value="portfolio" />
+      <item value="register" />
+      <item value="注册" />
+      <item value="待处理" />
+      <item value="Winning" />
+      <item value="中签" />
+      <item value="中签率" />
+      <item value="中签绿" />
+      <item value="Commission" />
+      <item value="Equity with Loan Value" />
+      <item value="Executes the commands in the pipeline and returns their result. If the connection is not pipelined, an empty * collection is returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
-        <entry key="FRENCH" value="3" />
-        <entry key="ROMANIAN" value="1" />
-        <entry key="MALAY" value="1" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="PORTUGUESE" value="3" />
-        <entry key="GREEK" value="1" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="32" />
+        <entry key="ARABIC" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
