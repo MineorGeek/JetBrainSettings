@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="latest" />
       <item value="charge" />
       <item value="=charge" />
       <item value="tiger charge" />
@@ -50,12 +51,11 @@
       <item value="Condition" />
       <item value="organization" />
       <item value="机构" />
-      <item value="分发器" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
