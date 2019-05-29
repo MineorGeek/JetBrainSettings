@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="charge" />
+      <item value="=charge" />
+      <item value="tiger charge" />
+      <item value="tigercharge" />
+      <item value="Company charge" />
+      <item value="公司扣款" />
+      <item value="company deduction " />
+      <item value="companydeduction " />
+      <item value="Deduction" />
+      <item value="扣款" />
       <item value="audit" />
       <item value="margin" />
       <item value="可融资的" />
@@ -41,21 +51,11 @@
       <item value="organization" />
       <item value="机构" />
       <item value="分发器" />
-      <item value="portfolio" />
-      <item value="register" />
-      <item value="注册" />
-      <item value="待处理" />
-      <item value="Winning" />
-      <item value="中签" />
-      <item value="中签率" />
-      <item value="中签绿" />
-      <item value="Commission" />
-      <item value="Equity with Loan Value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
