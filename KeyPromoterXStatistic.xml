@@ -401,6 +401,14 @@
           <Description>Annotate</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'⌘F4'</ShortCut>
+          <Description>Close</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close All">
         <Item>
           <IdeaActionID>CloseAllEditors</IdeaActionID>
