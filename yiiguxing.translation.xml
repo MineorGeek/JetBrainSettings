@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Review" />
+      <item value="审核" />
+      <item value="verify" />
+      <item value="vefiry" />
+      <item value="审计" />
+      <item value="审批" />
+      <item value="发起" />
       <item value="Audit" />
       <item value="审核文件" />
       <item value="审批文件" />
@@ -12,10 +19,7 @@
       <item value="duplicate" />
       <item value="重复" />
       <item value="上传" />
-      <item value="verify" />
-      <item value="审核" />
       <item value="Approval" />
-      <item value="审批" />
       <item value="canceled" />
       <item value="取消" />
       <item value="审批意见" />
@@ -47,15 +51,11 @@
       <item value="算法" />
       <item value="大" />
       <item value="期待" />
-      <item value="确认" />
-      <item value="queren" />
-      <item value="ack" />
-      <item value="流程" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="43" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
