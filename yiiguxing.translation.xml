@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Audit" />
+      <item value="审核文件" />
+      <item value="审批文件" />
       <item value="明细" />
       <item value="币种" />
       <item value="dollar" />
@@ -48,13 +51,10 @@
       <item value="queren" />
       <item value="ack" />
       <item value="流程" />
-      <item value="处理" />
-      <item value="Throttle" />
-      <item value="流程优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
