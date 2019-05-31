@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Patch" />
       <item value="checkable" />
       <item value="Review" />
       <item value="审核" />
@@ -50,12 +51,11 @@
       <item value="手动" />
       <item value="tomorrow" />
       <item value="算法" />
-      <item value="大" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
