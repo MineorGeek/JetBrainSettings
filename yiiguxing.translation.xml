@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="币种" />
+      <item value="dollar" />
       <item value="audit" />
       <item value="标记" />
       <item value="duplicate" />
@@ -13,7 +15,6 @@
       <item value="canceled" />
       <item value="取消" />
       <item value="审批意见" />
-      <item value="币种" />
       <item value="latest" />
       <item value="charge" />
       <item value="=charge" />
@@ -50,12 +51,11 @@
       <item value="Throttle" />
       <item value="流程优化" />
       <item value="scale" />
-      <item value="优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
