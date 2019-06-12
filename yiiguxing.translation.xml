@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="资管" />
+      <item value="可转入" />
       <item value="Audit" />
       <item value="Untyped" />
       <item value="reconcile" />
@@ -49,8 +51,6 @@
       <item value="latest" />
       <item value="charge" />
       <item value="=charge" />
-      <item value="tiger charge" />
-      <item value="tigercharge" />
     </histories>
     <option name="languageScores">
       <map>
