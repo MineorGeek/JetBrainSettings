@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Audit" />
+      <item value="Untyped" />
+      <item value="reconcile" />
+      <item value="same" />
+      <item value="recon" />
       <item value="Profile" />
       <item value="Deposit Check Resp" />
       <item value="Deposit" />
@@ -29,7 +34,6 @@
       <item value="vefiry" />
       <item value="审计" />
       <item value="发起" />
-      <item value="Audit" />
       <item value="审核文件" />
       <item value="审批文件" />
       <item value="明细" />
@@ -47,15 +51,11 @@
       <item value="=charge" />
       <item value="tiger charge" />
       <item value="tigercharge" />
-      <item value="Company charge" />
-      <item value="公司扣款" />
-      <item value="company deduction " />
-      <item value="companydeduction " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
