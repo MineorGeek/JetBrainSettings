@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="place" />
       <item value="subscription" />
       <item value="compensation" />
       <item value="realtime" />
@@ -50,12 +51,11 @@
       <item value="duplicate" />
       <item value="重复" />
       <item value="上传" />
-      <item value="canceled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
