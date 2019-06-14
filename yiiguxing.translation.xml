@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请人" />
       <item value="export" />
       <item value="报表" />
       <item value="identical" />
       <item value="一致" />
       <item value="业务线申请人" />
       <item value="applicant" />
-      <item value="申请人" />
       <item value="业务申请人" />
       <item value="转出" />
       <item value="转入" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
