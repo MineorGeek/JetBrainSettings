@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Withdrawable" />
       <item value="applicant" />
       <item value="申请人" />
       <item value="export" />
@@ -19,7 +20,6 @@
       <item value="subscription" />
       <item value="compensation" />
       <item value="realtime" />
-      <item value="Withdrawable" />
       <item value="资管" />
       <item value="Audit" />
       <item value="Untyped" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
