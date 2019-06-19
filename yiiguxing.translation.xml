@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SYEP" />
+      <item value="IPO LOAN" />
+      <item value="BALANCE" />
+      <item value="LOAN" />
       <item value="Collateral" />
       <item value="可转出的" />
       <item value="可转出" />
@@ -47,16 +51,13 @@
       <item value="Approval attach" />
       <item value="Approval attachment" />
       <item value="审批附件" />
-      <item value="annex" />
-      <item value="附件" />
-      <item value="审核" />
-      <item value="Approval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="ARABIC" value="1" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
       </map>
