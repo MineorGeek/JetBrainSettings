@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Investment cash" />
+      <item value="投资现金" />
+      <item value="投资" />
+      <item value="可投资的资金" />
+      <item value="可投资 资金" />
       <item value="charge" />
       <item value="内部划账" />
       <item value="内部转账" />
@@ -46,16 +51,11 @@
       <item value="Collateral" />
       <item value="可转出的" />
       <item value="可转出" />
-      <item value="Accrued" />
-      <item value="失败" />
-      <item value="Withdrawable" />
-      <item value="applicant" />
-      <item value="申请人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="89" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
