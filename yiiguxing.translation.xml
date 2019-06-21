@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入金" />
+      <item value="获得" />
+      <item value="查询" />
+      <item value="获取" />
+      <item value="calculate" />
+      <item value="计算" />
+      <item value="交易" />
       <item value="出金和入金" />
       <item value="Entry and exit" />
       <item value="出入金" />
@@ -9,7 +16,6 @@
       <item value="fund" />
       <item value="asset  management  funds" />
       <item value="asset_management_funds" />
-      <item value="交易" />
       <item value="Investment cash" />
       <item value="投资现金" />
       <item value="投资" />
@@ -45,17 +51,11 @@
       <item value="现金管理" />
       <item value="invalid distance too far back" />
       <item value="idle cash" />
-      <item value="idle" />
-      <item value="deposit" />
-      <item value="入金" />
-      <item value="refund" />
-      <item value="reimburse" />
-      <item value="补偿" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
