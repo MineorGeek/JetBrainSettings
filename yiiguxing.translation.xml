@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="重新同步 " />
+      <item value="出金" />
+      <item value="可撤出的" />
+      <item value="可出金的" />
+      <item value="抽出" />
+      <item value="withdrawable" />
       <item value="latest" />
       <item value="最新" />
-      <item value="出金" />
       <item value="转出" />
       <item value="入金" />
       <item value="Transaction" />
@@ -46,16 +51,11 @@
       <item value="理财" />
       <item value="transaction" />
       <item value="流水编号" />
-      <item value="批次" />
-      <item value="Withdrawal" />
-      <item value="collection" />
-      <item value="withdrawal" />
-      <item value="可用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
