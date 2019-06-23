@@ -1,64 +1,66 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="place" />
-      <item value="subscription" />
-      <item value="compensation" />
-      <item value="realtime" />
-      <item value="Withdrawable" />
+      <item value="Investment cash" />
+      <item value="投资现金" />
+      <item value="投资" />
+      <item value="可投资的资金" />
+      <item value="可投资 资金" />
+      <item value="charge" />
+      <item value="内部划账" />
+      <item value="内部转账" />
+      <item value="Financial management funds" />
+      <item value="理财资金" />
+      <item value="资金" />
+      <item value="投资资金" />
+      <item value="投资基金" />
+      <item value="可投资现金" />
+      <item value="可投资基金" />
+      <item value="基金" />
+      <item value="manage finances" />
+      <item value="理财" />
+      <item value="transaction" />
+      <item value="流水编号" />
+      <item value="批次" />
+      <item value="出金" />
+      <item value="Withdrawal" />
+      <item value="collection" />
+      <item value="withdrawal" />
+      <item value="可用" />
+      <item value="transfer out" />
+      <item value="transfer in" />
+      <item value="转入" />
       <item value="资管" />
-      <item value="可转入" />
-      <item value="Audit" />
-      <item value="Untyped" />
-      <item value="reconcile" />
-      <item value="same" />
-      <item value="recon" />
-      <item value="Profile" />
-      <item value="Deposit Check Resp" />
-      <item value="Deposit" />
-      <item value="approve file" />
-      <item value="approve" />
-      <item value="Notice" />
-      <item value="Withdraw" />
-      <item value="累加" />
-      <item value="asset" />
-      <item value="fund" />
-      <item value="后缀" />
-      <item value="最后" />
-      <item value="取消" />
-      <item value="Approval attach" />
-      <item value="Approval attachment" />
-      <item value="审批附件" />
-      <item value="annex" />
-      <item value="附件" />
-      <item value="审核" />
-      <item value="Approval" />
-      <item value="审批" />
-      <item value="Patch" />
-      <item value="checkable" />
-      <item value="Review" />
-      <item value="verify" />
-      <item value="vefiry" />
-      <item value="审计" />
-      <item value="发起" />
-      <item value="审核文件" />
-      <item value="审批文件" />
-      <item value="明细" />
-      <item value="币种" />
-      <item value="dollar" />
-      <item value="audit" />
-      <item value="标记" />
-      <item value="duplicate" />
-      <item value="重复" />
-      <item value="上传" />
+      <item value="转账" />
+      <item value="赎回" />
+      <item value="现金管理" />
+      <item value="invalid distance too far back" />
+      <item value="idle cash" />
+      <item value="idle" />
+      <item value="deposit" />
+      <item value="入金" />
+      <item value="refund" />
+      <item value="reimburse" />
+      <item value="补偿" />
+      <item value="出金 " />
+      <item value="转出" />
+      <item value="SYEP" />
+      <item value="IPO LOAN" />
+      <item value="BALANCE" />
+      <item value="LOAN" />
+      <item value="Collateral" />
+      <item value="可转出的" />
+      <item value="可转出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="89" />
         <entry key="ARABIC" value="1" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
+        <entry key="JAPANESE" value="3" />
       </map>
     </option>
   </component>
