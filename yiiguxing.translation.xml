@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gap" />
+      <item value="retryable" />
+      <item value="可以重试" />
       <item value="supplement" />
       <item value="补充" />
       <item value="正数" />
@@ -48,14 +51,11 @@
       <item value="出金和入金" />
       <item value="Entry and exit" />
       <item value="出入金" />
-      <item value="overdraft" />
-      <item value="欠款" />
-      <item value="fund" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="110" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
