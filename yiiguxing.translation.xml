@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Principal" />
+      <item value="amount_zero_reason" />
+      <item value="amount_reason" />
+      <item value="金额为零原因" />
+      <item value="不可用原因" />
+      <item value="不可交易原因" />
       <item value="交易" />
       <item value="segment" />
       <item value="the exit value of the subprocess represented by this * {@code Process} object. By convention, the value * {@code 0} indicates normal termination." />
@@ -45,17 +51,11 @@
       <item value="charge" />
       <item value="内部划账" />
       <item value="内部转账" />
-      <item value="Financial management funds" />
-      <item value="理财资金" />
-      <item value="资金" />
-      <item value="投资资金" />
-      <item value="投资基金" />
-      <item value="可投资现金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
