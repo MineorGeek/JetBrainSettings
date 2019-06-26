@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="debt" />
       <item value="外部的" />
       <item value="外部" />
       <item value="现金为负" />
       <item value="欠款" />
       <item value="owing" />
-      <item value="debt" />
       <item value="has debt" />
       <item value="be in debt" />
       <item value="负债" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="114" />
         <entry key="ENGLISH" value="114" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
