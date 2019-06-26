@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="现金为负" />
+      <item value="欠款" />
+      <item value="owing" />
+      <item value="debt" />
+      <item value="has debt" />
+      <item value="be in debt" />
+      <item value="负债" />
+      <item value="overdraft" />
+      <item value="融券" />
+      <item value="融资" />
       <item value="gap" />
       <item value="retryable" />
       <item value="可以重试" />
@@ -41,21 +51,11 @@
       <item value="事务" />
       <item value="闲置现金" />
       <item value="闲置" />
-      <item value="可交易" />
-      <item value="fraction" />
-      <item value="获得" />
-      <item value="查询" />
-      <item value="获取" />
-      <item value="calculate" />
-      <item value="计算" />
-      <item value="出金和入金" />
-      <item value="Entry and exit" />
-      <item value="出入金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
