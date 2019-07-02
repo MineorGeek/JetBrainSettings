@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="足够" />
+      <item value="资金不足" />
+      <item value="可用资金不足" />
+      <item value="内部错误" />
       <item value="delta" />
       <item value="setup" />
       <item value="debt" />
@@ -47,10 +51,6 @@
       <item value="可出金的" />
       <item value="抽出" />
       <item value="withdrawable" />
-      <item value="latest" />
-      <item value="最新" />
-      <item value="转出" />
-      <item value="入金" />
     </histories>
     <option name="languageScores">
       <map>
