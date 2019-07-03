@@ -1,8 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="扣款" />
+      <item value="increase" />
+      <item value="add" />
+      <item value="enhance" />
+      <item value="increase money" />
       <item value="加款" />
+      <item value="deduct" />
+      <item value="Deduction" />
+      <item value="减款" />
+      <item value="transfer in" />
+      <item value="转入" />
+      <item value="Addition" />
+      <item value="扣款加款" />
+      <item value="扣款" />
+      <item value="转出" />
       <item value="足够" />
       <item value="资金不足" />
       <item value="可用资金不足" />
@@ -39,23 +51,11 @@
       <item value="amount_reason" />
       <item value="金额为零原因" />
       <item value="不可用原因" />
-      <item value="不可交易原因" />
-      <item value="交易" />
-      <item value="segment" />
-      <item value="the exit value of the subprocess represented by this * {@code Process} object. By convention, the value * {@code 0} indicates normal termination." />
-      <item value="Causes the current thread to wait, if necessary, until the * process represented by this {@code Process} object has * terminated. This method returns immediately if the subprocess * has already terminated. If the subprocess has not yet * terminated, the calling thread will be blocked until the * subprocess exits." />
-      <item value="passphrase" />
-      <item value="encrypted" />
-      <item value="available" />
-      <item value="重新同步 " />
-      <item value="出金" />
-      <item value="可撤出的" />
-      <item value="可出金的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="118" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
