@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="扣款" />
+      <item value="加款" />
       <item value="足够" />
       <item value="资金不足" />
       <item value="可用资金不足" />
@@ -49,8 +51,6 @@
       <item value="出金" />
       <item value="可撤出的" />
       <item value="可出金的" />
-      <item value="抽出" />
-      <item value="withdrawable" />
     </histories>
     <option name="languageScores">
       <map>
