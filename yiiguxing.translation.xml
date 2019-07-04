@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shrink" />
+      <item value="缩小" />
+      <item value="范围" />
       <item value="审核" />
       <item value="increase" />
       <item value="add" />
@@ -48,13 +51,10 @@
       <item value="Loan" />
       <item value="collateral" />
       <item value="Principal" />
-      <item value="amount_zero_reason" />
-      <item value="amount_reason" />
-      <item value="金额为零原因" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
+        <entry key="CHINESE" value="119" />
         <entry key="ENGLISH" value="119" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
