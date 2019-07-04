@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可用" />
       <item value="入金" />
       <item value="出金" />
       <item value="加款" />
@@ -50,7 +51,6 @@
       <item value="HAIRCUT" />
       <item value="compensate" />
       <item value="equity" />
-      <item value="Loan" />
     </histories>
     <option name="languageScores">
       <map>
