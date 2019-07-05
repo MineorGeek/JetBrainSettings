@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="足够" />
       <item value="可用" />
       <item value="入金" />
       <item value="出金" />
@@ -22,7 +23,6 @@
       <item value="扣款加款" />
       <item value="扣款" />
       <item value="转出" />
-      <item value="足够" />
       <item value="资金不足" />
       <item value="可用资金不足" />
       <item value="内部错误" />
