@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Investment cash" />
-      <item value="投资现金" />
-      <item value="投资" />
-      <item value="可投资的资金" />
-      <item value="可投资 资金" />
-      <item value="charge" />
-      <item value="内部划账" />
-      <item value="内部转账" />
-      <item value="Financial management funds" />
-      <item value="理财资金" />
-      <item value="资金" />
-      <item value="投资资金" />
-      <item value="投资基金" />
-      <item value="可投资现金" />
-      <item value="可投资基金" />
-      <item value="基金" />
-      <item value="manage finances" />
-      <item value="理财" />
-      <item value="transaction" />
-      <item value="流水编号" />
-      <item value="批次" />
-      <item value="出金" />
-      <item value="Withdrawal" />
-      <item value="collection" />
-      <item value="withdrawal" />
+      <item value="Set the current data connection mode to      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt;.  Use this      * method only for data transfers between the client and server.      * This method causes a PASV (or EPSV) command to be issued to the server      * before the opening of every data connection, telling the server to      * open a data port to which the client will connect to conduct      * data transfers.  The FTPClient will stay in      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt; until the      * mode is changed by calling some other method such as" />
+      <item value="&lt;IPO ipo_name=&quot;02558-IPO&quot; company_name=&quot;Jinshang Bank Co., Ltd.&quot; symbol=&quot;02558&quot; location=&quot;HK&quot; status=&quot;OPEN&quot; current_price_used_for_creditcheck=&quot;3.98&quot; allocation_price=&quot;0.0&quot; currency=&quot;HKD&quot; order_updates_allowed=&quot;true&quot; pab_account_id=&quot;U1937210&quot; min_order_size=&quot;1000&quot; low_price_range=&quot;3.8&quot; high_price_range=&quot;3.98&quot; expected_offering_size=&quot;860000000&quot; financing_available=&quot;true&quot; margin_rate=&quot;0.25&quot; min_fully_paid_shares=&quot;1000&quot; underwriter=&quot;CCB International Capital Limited&quot; prospectus=&quot;https://www1.hkexnews.hk/listedco/listconews/sehk/2019/0628/ltn2019062804mited&quot; prospectus=&quot;https://www1.hkexnews.hk/listedco/listconews/seh00&quot; financing_available=&quot;true&quot; margin_rate=&quot;0.25&quot; min_fully_ŠLvate=&quot;2019-07-11T00:00:00.000+08allocation_price=&quot;0.0&quot; currency=&quot;HKD&quot; order_updates_all 7=&quot;httCamo/&gt;                     &lt;AllowedQu9-07-12T00:00:00.000+08:00&quot; price_confirmation¶sx:00&quot; refund_date=&quot;2019-07-11T00:00:00.000+08:00&quot;" />
+      <item value="A constant used to indicate the file(s) being transfered should * be treated as ASCII. This is the default file type. All constants * ending in &lt;code&gt;FILE_TYPE&lt;/code&gt; are used to indicate file types." />
+      <item value="Retrieves a named file from the server and writes it to the given      * OutputStream.  This method does NOT close the given OutputStream" />
+      <item value="retrieve" />
+      <item value="review" />
+      <item value="足够" />
       <item value="可用" />
-      <item value="transfer out" />
+      <item value="入金" />
+      <item value="出金" />
+      <item value="加款" />
+      <item value="shrink" />
+      <item value="缩小" />
+      <item value="范围" />
+      <item value="审核" />
+      <item value="increase" />
+      <item value="add" />
+      <item value="enhance" />
+      <item value="increase money" />
+      <item value="deduct" />
+      <item value="Deduction" />
+      <item value="减款" />
       <item value="transfer in" />
       <item value="转入" />
-      <item value="资管" />
-      <item value="转账" />
-      <item value="赎回" />
-      <item value="现金管理" />
-      <item value="invalid distance too far back" />
-      <item value="idle cash" />
-      <item value="idle" />
-      <item value="deposit" />
-      <item value="入金" />
-      <item value="refund" />
-      <item value="reimburse" />
-      <item value="补偿" />
-      <item value="出金 " />
+      <item value="Addition" />
+      <item value="扣款加款" />
+      <item value="扣款" />
       <item value="转出" />
-      <item value="SYEP" />
-      <item value="IPO LOAN" />
-      <item value="BALANCE" />
-      <item value="LOAN" />
-      <item value="Collateral" />
-      <item value="可转出的" />
-      <item value="可转出" />
+      <item value="资金不足" />
+      <item value="可用资金不足" />
+      <item value="内部错误" />
+      <item value="delta" />
+      <item value="setup" />
+      <item value="debt" />
+      <item value="外部的" />
+      <item value="外部" />
+      <item value="现金为负" />
+      <item value="欠款" />
+      <item value="owing" />
+      <item value="has debt" />
+      <item value="be in debt" />
+      <item value="负债" />
+      <item value="overdraft" />
+      <item value="融券" />
+      <item value="融资" />
+      <item value="gap" />
+      <item value="retryable" />
+      <item value="可以重试" />
+      <item value="supplement" />
+      <item value="补充" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="122" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
