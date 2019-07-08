@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="审核通过" />
       <item value="Interest" />
       <item value="calculate" />
       <item value="calcute" />
@@ -50,7 +51,6 @@
       <item value="欠款" />
       <item value="owing" />
       <item value="has debt" />
-      <item value="be in debt" />
     </histories>
     <option name="languageScores">
       <map>
