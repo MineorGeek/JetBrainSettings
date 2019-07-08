@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interest" />
+      <item value="calculate" />
+      <item value="calcute" />
       <item value="Financing" />
       <item value="并发" />
       <item value=" Noted with thanks " />
@@ -48,14 +51,11 @@
       <item value="owing" />
       <item value="has debt" />
       <item value="be in debt" />
-      <item value="负债" />
-      <item value="overdraft" />
-      <item value="融券" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
