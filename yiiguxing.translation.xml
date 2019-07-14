@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="半径" />
       <item value="Set the current data connection mode to      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt;.  Use this      * method only for data transfers between the client and server.      * This method causes a PASV (or EPSV) command to be issued to the server      * before the opening of every data connection, telling the server to      * open a data port to which the client will connect to conduct      * data transfers.  The FTPClient will stay in      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt; until the      * mode is changed by calling some other method such as" />
       <item value="&lt;IPO ipo_name=&quot;02558-IPO&quot; company_name=&quot;Jinshang Bank Co., Ltd.&quot; symbol=&quot;02558&quot; location=&quot;HK&quot; status=&quot;OPEN&quot; current_price_used_for_creditcheck=&quot;3.98&quot; allocation_price=&quot;0.0&quot; currency=&quot;HKD&quot; order_updates_allowed=&quot;true&quot; pab_account_id=&quot;U1937210&quot; min_order_size=&quot;1000&quot; low_price_range=&quot;3.8&quot; high_price_range=&quot;3.98&quot; expected_offering_size=&quot;860000000&quot; financing_available=&quot;true&quot; margin_rate=&quot;0.25&quot; min_fully_paid_shares=&quot;1000&quot; underwriter=&quot;CCB International Capital Limited&quot; prospectus=&quot;https://www1.hkexnews.hk/listedco/listconews/sehk/2019/0628/ltn2019062804mited&quot; prospectus=&quot;https://www1.hkexnews.hk/listedco/listconews/seh00&quot; financing_available=&quot;true&quot; margin_rate=&quot;0.25&quot; min_fully_ŠLvate=&quot;2019-07-11T00:00:00.000+08allocation_price=&quot;0.0&quot; currency=&quot;HKD&quot; order_updates_all 7=&quot;httCamo/&gt;                     &lt;AllowedQu9-07-12T00:00:00.000+08:00&quot; price_confirmation¶sx:00&quot; refund_date=&quot;2019-07-11T00:00:00.000+08:00&quot;" />
       <item value="A constant used to indicate the file(s) being transfered should * be treated as ASCII. This is the default file type. All constants * ending in &lt;code&gt;FILE_TYPE&lt;/code&gt; are used to indicate file types." />
@@ -50,12 +51,11 @@
       <item value="retryable" />
       <item value="可以重试" />
       <item value="supplement" />
-      <item value="补充" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
