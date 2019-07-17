@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="** * The name of the property used to specify whether or not the marshaller * will generate document level events (ie calling startDocument or endDocument). */" />
       <item value="Constituents" />
       <item value="individual" />
       <item value="个人" />
@@ -50,12 +51,11 @@
       <item value="减款" />
       <item value="transfer in" />
       <item value="转入" />
-      <item value="Addition" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
