@@ -1,8 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="重复" />
+      <item value="forex" />
+      <item value="汇率" />
+      <item value="A-share" />
+      <item value="A股" />
+      <item value="Returns an iterator over the elements in this list in proper sequence." />
+      <item value="Returns &lt;tt&gt;true&lt;/tt&gt; if this list contains the specified element. * More formally, returns &lt;tt&gt;true&lt;/tt&gt; if and only if this list contains * at least one element &lt;tt&gt;e&lt;/tt&gt; such that * &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;/tt&gt;. * * @param o element whose presence in this list is to be tested * @return &lt;tt&gt;true&lt;/tt&gt; if this list contains the specified element * @throws ClassCastException if the type of the specified element * is incompatible with this list * (&lt;a href=&quot;Collection.html#optional-restrictions&quot;&gt;optional&lt;/a&gt;) * @throws NullPointerException if the specified element is null and this * list does not permit null elements * (&lt;a href=&quot;Collection.html#optional-restrictions&quot;&gt;optional&lt;/a&gt;)" />
+      <item value="Returns the number of elements in this list. If this list contains * more than &lt;tt&gt;Integer.MAX_VALUE&lt;/tt&gt; elements, returns * &lt;tt&gt;Integer.MAX_VALUE&lt;/tt&gt;. * * @return the number of elements in this list" />
+      <item value="Alpha Quote Error Code" />
+      <item value="Quote" />
       <item value="INTERNAL" />
+      <item value="重复" />
       <item value="独立" />
       <item value="discrete" />
       <item value="分离" />
@@ -42,20 +51,11 @@
       <item value="可用" />
       <item value="入金" />
       <item value="出金" />
-      <item value="加款" />
-      <item value="shrink" />
-      <item value="缩小" />
-      <item value="范围" />
-      <item value="审核" />
-      <item value="increase" />
-      <item value="add" />
-      <item value="enhance" />
-      <item value="increase money" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="143" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -71,5 +71,12 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5270ca83735d52d0" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
