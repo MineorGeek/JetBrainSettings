@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="并发" />
       <item value="Composite" />
       <item value="矩阵" />
       <item value="forex" />
@@ -38,7 +39,6 @@
       <item value="calculate" />
       <item value="calcute" />
       <item value="Financing" />
-      <item value="并发" />
       <item value=" Noted with thanks " />
       <item value="encrypt" />
       <item value="加密" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="1" />
