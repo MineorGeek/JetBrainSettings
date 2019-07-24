@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Regarding the previous eIPO application(01769: HK Scholar Education Group), please kindly provide the client statement of WANG YANAN at 20/6 &amp; 21/6 for us." />
       <item value="业务申请人" />
       <item value="proposer" />
       <item value="并发" />
@@ -50,7 +51,6 @@
       <item value="A constant used to indicate the file(s) being transfered should * be treated as ASCII. This is the default file type. All constants * ending in &lt;code&gt;FILE_TYPE&lt;/code&gt; are used to indicate file types." />
       <item value="Retrieves a named file from the server and writes it to the given      * OutputStream.  This method does NOT close the given OutputStream" />
       <item value="retrieve" />
-      <item value="review" />
     </histories>
     <option name="languageScores">
       <map>
