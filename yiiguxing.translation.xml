@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多余" />
       <item value="重算" />
       <item value="situations" />
       <item value="重复 " />
@@ -50,12 +51,11 @@
       <item value="encrypt" />
       <item value="加密" />
       <item value="提示" />
-      <item value="Set the current data connection mode to      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt;.  Use this      * method only for data transfers between the client and server.      * This method causes a PASV (or EPSV) command to be issued to the server      * before the opening of every data connection, telling the server to      * open a data port to which the client will connect to conduct      * data transfers.  The FTPClient will stay in      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt; until the      * mode is changed by calling some other method such as" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
