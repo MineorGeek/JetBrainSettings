@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="位数" />
+      <item value="生成" />
       <item value="hermes" />
       <item value="PROCESSING" />
       <item value="submit" />
@@ -49,13 +51,11 @@
       <item value="明细" />
       <item value="详细" />
       <item value="report" />
-      <item value="applicant" />
-      <item value="审核通过" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="ENGLISH" value="158" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
