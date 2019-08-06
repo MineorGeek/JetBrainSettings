@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hermes" />
       <item value="PROCESSING" />
       <item value="submit" />
       <item value="购买" />
@@ -50,7 +51,6 @@
       <item value="report" />
       <item value="applicant" />
       <item value="审核通过" />
-      <item value="Interest" />
     </histories>
     <option name="languageScores">
       <map>
