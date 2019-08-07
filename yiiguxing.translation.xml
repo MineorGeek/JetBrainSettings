@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多余" />
       <item value="认购" />
       <item value="duplicate" />
       <item value="重复" />
@@ -14,7 +15,6 @@
       <item value="资金" />
       <item value="不正确" />
       <item value="aggregated" />
-      <item value="多余" />
       <item value="重算" />
       <item value="situations" />
       <item value="重复 " />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
