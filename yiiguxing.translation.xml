@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multiple" />
+      <item value="重复认购" />
       <item value="duplicate" />
       <item value="处理完" />
       <item value="Returns the closest {@code long} to the argument, with ties * rounding to positive infinity." />
@@ -49,13 +51,11 @@
       <item value="Principle" />
       <item value="Commission" />
       <item value="intercept" />
-      <item value="dummy" />
-      <item value="big" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
