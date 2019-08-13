@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="双份的" />
+      <item value="多余的" />
+      <item value="重复的" />
+      <item value="dumplite" />
+      <item value="duplite" />
       <item value="Multiple" />
       <item value="重复认购" />
       <item value="duplicate" />
@@ -46,16 +51,11 @@
       <item value="** * The name of the property used to specify whether or not the marshaller * will generate document level events (ie calling startDocument or endDocument). */" />
       <item value="Constituents" />
       <item value="individual" />
-      <item value="个人" />
-      <item value="Principal" />
-      <item value="Principle" />
-      <item value="Commission" />
-      <item value="intercept" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
