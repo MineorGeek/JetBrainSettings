@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="patch" />
+      <item value="supplement" />
+      <item value="补充" />
       <item value="giving" />
       <item value="赠送" />
       <item value="Presented" />
@@ -48,14 +51,11 @@
       <item value="Alpha Quote Error Code" />
       <item value="Quote" />
       <item value="INTERNAL" />
-      <item value="独立" />
-      <item value="discrete" />
-      <item value="分离" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
