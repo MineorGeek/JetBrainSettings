@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="desc" />
       <item value="Operating revenue" />
       <item value="运营营收" />
       <item value="运营" />
@@ -50,12 +51,11 @@
       <item value="forex" />
       <item value="汇率" />
       <item value="A-share" />
-      <item value="A股" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="171" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
