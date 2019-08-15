@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="region" />
+      <item value="extra_data" />
       <item value="desc" />
       <item value="Operating revenue" />
       <item value="运营营收" />
@@ -49,8 +51,6 @@
       <item value="Composite" />
       <item value="矩阵" />
       <item value="forex" />
-      <item value="汇率" />
-      <item value="A-share" />
     </histories>
     <option name="languageScores">
       <map>
