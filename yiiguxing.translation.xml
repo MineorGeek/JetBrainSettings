@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quote" />
+      <item value="行情" />
+      <item value="hangqing" />
       <item value="region" />
       <item value="extra_data" />
       <item value="desc" />
@@ -48,14 +51,11 @@
       <item value="业务申请人" />
       <item value="proposer" />
       <item value="并发" />
-      <item value="Composite" />
-      <item value="矩阵" />
-      <item value="forex" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="145" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
