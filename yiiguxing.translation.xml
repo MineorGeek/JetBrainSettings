@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="大于" />
+      <item value="当前" />
+      <item value="实际" />
       <item value="Canceled" />
       <item value="Cancelled" />
       <item value="CENCELED" />
@@ -48,14 +51,11 @@
       <item value="购买" />
       <item value="初始保证金" />
       <item value="资金" />
-      <item value="不正确" />
-      <item value="aggregated" />
-      <item value="重算" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="ENGLISH" value="177" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="2" />
