@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上限" />
       <item value="数量" />
       <item value="种子" />
       <item value="propagation" />
@@ -50,12 +51,11 @@
       <item value="Multiple" />
       <item value="重复认购" />
       <item value="duplicate" />
-      <item value="处理完" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
