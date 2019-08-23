@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数量" />
+      <item value="种子" />
       <item value="propagation" />
       <item value="Prefix for the propagation constants defined in TransactionDefinition" />
       <item value="statuses" />
@@ -49,13 +51,11 @@
       <item value="重复认购" />
       <item value="duplicate" />
       <item value="处理完" />
-      <item value="Returns the closest {@code long} to the argument, with ties * rounding to positive infinity." />
-      <item value="standby" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="ENGLISH" value="185" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
