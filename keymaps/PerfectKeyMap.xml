@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="shift meta f9" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ContextHelp" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
