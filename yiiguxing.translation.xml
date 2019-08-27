@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缺少" />
       <item value="持仓转入" />
       <item value="转入" />
       <item value="联系人" />
@@ -50,12 +51,11 @@
       <item value="Presented" />
       <item value="双份的" />
       <item value="多余的" />
-      <item value="重复的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
