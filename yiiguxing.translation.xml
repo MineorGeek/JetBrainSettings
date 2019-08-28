@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancelable" />
       <item value="transferred" />
       <item value="缺少" />
       <item value="持仓转入" />
@@ -50,7 +51,6 @@
       <item value="giving" />
       <item value="赠送" />
       <item value="Presented" />
-      <item value="双份的" />
     </histories>
     <option name="languageScores">
       <map>
