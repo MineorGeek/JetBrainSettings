@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="左区间" />
+      <item value="区间" />
       <item value="hit" />
       <item value="quota" />
       <item value="配额" />
@@ -49,13 +51,11 @@
       <item value="Cancelled" />
       <item value="CENCELED" />
       <item value="CENCELed" />
-      <item value="CENCELLED" />
-      <item value="Cross" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
