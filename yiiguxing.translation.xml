@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deposit" />
+      <item value="q" />
       <item value="deposit" />
       <item value="左区间" />
       <item value="区间" />
@@ -49,8 +51,6 @@
       <item value="当前" />
       <item value="实际" />
       <item value="Canceled" />
-      <item value="Cancelled" />
-      <item value="CENCELED" />
     </histories>
     <option name="languageScores">
       <map>
