@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用" />
+      <item value="消耗" />
+      <item value="占用" />
+      <item value="已使用" />
+      <item value="剩余" />
       <item value="custom" />
       <item value="temporarily" />
       <item value="complete" />
@@ -46,16 +51,11 @@
       <item value="数量" />
       <item value="种子" />
       <item value="propagation" />
-      <item value="Prefix for the propagation constants defined in TransactionDefinition" />
-      <item value="statuses" />
-      <item value="statues" />
-      <item value="/** * Translate the given runtime exception thrown by a persistence framework to a * corresponding exception from Spring's generic * {@link org.springframework.dao.DataAccessException} hierarchy, if possible. * &lt;p&gt;Do not translate exceptions that are not understood by this translator: * for example, if coming from another persistence framework, or resulting * from user code or otherwise unrelated to persistence. * &lt;p&gt;Of particular importance is the correct translation to * DataIntegrityViolationException, for example on constraint violation. * Implementations may use Spring JDBC's sophisticated exception translation * to provide further information in the event of SQLException as a root cause. * @param ex a RuntimeException to translate * @return the corresponding DataAccessException (or {@code null} if the * exception could not be translated, as in this case it may result from * user code rather than from an actual persistence problem) * @see org.springframework.dao.DataIntegrityViolationException * @see org.springframework.jdbc.support.SQLExceptionTranslator */" />
-      <item value="有效" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="ENGLISH" value="209" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
