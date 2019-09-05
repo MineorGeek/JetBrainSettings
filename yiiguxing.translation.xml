@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="explicitly" />
       <item value="使用" />
       <item value="消耗" />
       <item value="占用" />
@@ -50,7 +51,6 @@
       <item value="上限" />
       <item value="数量" />
       <item value="种子" />
-      <item value="propagation" />
     </histories>
     <option name="languageScores">
       <map>
