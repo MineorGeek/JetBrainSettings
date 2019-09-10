@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quota" />
+      <item value="配额" />
+      <item value="额度" />
+      <item value="Amount" />
       <item value="explicitly" />
       <item value="使用" />
       <item value="消耗" />
@@ -16,21 +20,17 @@
       <item value="orientation" />
       <item value="定向" />
       <item value="特殊额度" />
-      <item value="额度" />
       <item value="Deposit" />
       <item value="q" />
       <item value="deposit" />
       <item value="左区间" />
       <item value="区间" />
       <item value="hit" />
-      <item value="quota" />
-      <item value="配额" />
       <item value="未获配" />
       <item value="未获赔" />
       <item value="已获配" />
       <item value="待取消" />
       <item value="上限和下限" />
-      <item value="Amount" />
       <item value="免息" />
       <item value="邮箱" />
       <item value="contact" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="212" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
