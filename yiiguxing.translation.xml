@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多余" />
       <item value="转移" />
       <item value="迁移" />
       <item value="Principle" />
@@ -50,12 +51,11 @@
       <item value="扣费" />
       <item value="parameter controls the number of times the * pattern is applied and therefore affects the length of the resulting * array. If the limit &lt;i&gt;n&lt;/i&gt; is greater than zero then the pattern * will be applied at most &lt;i&gt;n&lt;/i&gt;&amp;nbsp;-&amp;nbsp;1 times, the array's * length will be no greater than &lt;i&gt;n&lt;/i&gt;, and the array's last entry * will contain all input beyond the last matched delimiter. If &lt;i&gt;n&lt;/i&gt; * is non-positive then the pattern will be applied as many times as * possible and the array can have any length." />
       <item value="缺少转出方信息" />
-      <item value="cancelable" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
