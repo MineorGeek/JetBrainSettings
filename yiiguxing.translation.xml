@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates and enqueues node for current thread and given mode." />
       <item value="anticipation" />
       <item value="ongoing" />
       <item value="waitStatus value to indicate successor's thread needs unparking */" />
@@ -50,12 +51,11 @@
       <item value="Amount" />
       <item value="explicitly" />
       <item value="使用" />
-      <item value="消耗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="255" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
