@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Head of the wait queue, lazily initialized. Except for * initialization, it is modified only via method setHead. Note: * If head exists, its waitStatus is guaranteed not to be * CANCELLED." />
       <item value="enqueues" />
       <item value="This class defines a nested {@link ConditionObject} class that * can be used as a {@link Condition} implementation by subclasses * supporting exclusive mode for which method {@link * #isHeldExclusively} reports whether synchronization is exclusively * held with respect to the current thread, method {@link #release} * invoked with the current {@link #getState} value fully releases * this object, and {@link #acquire}, given this saved state value, * eventually restores this object to its previous acquired state. No * {@code AbstractQueuedSynchronizer} method otherwise creates such a * condition, so if this constraint cannot be met, do not use it. The * behavior of {@link ConditionObject} depends of course on the * semantics of its synchronizer implementation." />
       <item value="nested" />
@@ -50,12 +51,11 @@
       <item value="custom" />
       <item value="temporarily" />
       <item value="complete" />
-      <item value="complate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="248" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
