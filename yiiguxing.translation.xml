@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Used by condition wait methods as well as acquire." />
+      <item value="exclusive" />
+      <item value="Acquires" />
+      <item value="Acquires in exclusive uninterruptible mode for thread already in * queue. Used by condition wait methods as well as acquire." />
+      <item value="Try the fast path of enq" />
+      <item value="uninterpreted" />
+      <item value="the acquire argument. This value is conveyed to * {@link #tryAcquire} but is otherwise uninterpreted and * can represent anything you like." />
       <item value="Creates and enqueues node for current thread and given mode." />
       <item value="anticipation" />
       <item value="ongoing" />
@@ -44,18 +51,11 @@
       <item value="个人" />
       <item value="额度是否足够" />
       <item value="分配" />
-      <item value="可分配" />
-      <item value="最近的" />
-      <item value="quota" />
-      <item value="配额" />
-      <item value="Amount" />
-      <item value="explicitly" />
-      <item value="使用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="195" />
+        <entry key="ENGLISH" value="263" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
