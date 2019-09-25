@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="限制" />
+      <item value="机构" />
       <item value="Separate Trading Limit Account" />
       <item value="Proprietary Trading Groups" />
-      <item value="机构" />
       <item value="// The correctness of this depends on head being initialized // before tail and on head.next being accurate if the current // thread is first in queue." />
       <item value="before tail and on head.next being accurate if the current" />
       <item value="The correctness of this depends on head being initialized" />
@@ -50,12 +51,11 @@
       <item value="prematurely" />
       <item value="If the FTP server prematurely closes the connection as a result" />
       <item value="多余" />
-      <item value="转移" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="ENGLISH" value="275" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
