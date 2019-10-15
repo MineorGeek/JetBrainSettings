@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="omnibus" />
       <item value="机构行情购买" />
       <item value="expect" />
       <item value="aggregation" />
@@ -50,7 +51,6 @@
       <item value="atomically" />
       <item value="mechanics" />
       <item value="carry * out" />
-      <item value="Given these, the other methods in this class carry * out all queuing and blocking mechanics." />
     </histories>
     <option name="languageScores">
       <map>
