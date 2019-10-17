@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decorates" />
+      <item value="Indicates" />
+      <item value="Decides" />
+      <item value="Allows someone to add tags to a span if a trace is in progress" />
+      <item value="Controls aspects of tracing such as the service name that shows up in the UI" />
       <item value="So that javascript can be hosted elsewhere" />
       <item value="Frontend" />
       <item value="Backend" />
@@ -46,16 +51,11 @@
       <item value="nested" />
       <item value="Subclasses that support only exclusive or * only shared modes need not define the methods supporting the unused mode." />
       <item value="Usually, implementation subclasses support only * one of these modes, but both can come into play for example in a * {@link ReadWriteLock}." />
-      <item value="This class * does not &amp;quot;understand&amp;quot; these differences except in the * mechanical sense that when a shared mode acquire succeeds, the next * waiting thread (if one exists) must also determine whether it can * acquire as well." />
-      <item value="mechanical" />
-      <item value="acquired" />
-      <item value="Instead it defines methods such as * {@link #acquireInterruptibly} that can be invoked as * appropriate by concrete locks and related synchronizers to * implement their public methods." />
-      <item value="appropriate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="291" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
