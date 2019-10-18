@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The design space of distributed systems tracing tools has been explored in a number of excellent previous articles, among which Pinpoint [9], Magpie [3] and X-Trace [12] are most closely related to Dapper." />
+      <item value="We have found that Dapper’s system-wide data often focuses a performance investigation so that other tools can be applied locally." />
+      <item value="Making the system scalable and reducing performance overhead was facilitated by the use of adaptive sampling, as will be described in Section 4.4." />
+      <item value="An additional design goal is for tracing data to be available for analysis quickly after it is generated: ideally within a minute. Although a trace analysis system operating on hours-old data is still quite valuable, the availability of fresh information enables faster reaction to production anomalies." />
+      <item value="idealy" />
+      <item value="Scalability" />
+      <item value="This is especially important in a fast-paced development environment such as ours." />
+      <item value="A tracing infrastructure that relies on active collaboration from application-level developers in order to function becomes extremely fragile, and is often broken due to instrumentation bugs or omissions, therefore violating the ubiquity requirement." />
+      <item value="collaboration" />
+      <item value="transparency" />
+      <item value="compel" />
+      <item value="Low overhead" />
+      <item value="In addition, monitoring should always be turned on, because it is often the case that unusual or otherwise noteworthy system behavior is difﬁcult or impossible to reproduce." />
+      <item value="Ubiquity is important since the usefulness of a tracing infrastructure can be severly impacted if even small parts of the system are not being monitored." />
+      <item value="The scenario described above gives rise to two fundamental requirements for Dapper" />
+      <item value="user-visible" />
+      <item value="A front-end service may distribute a web query to many hundreds of query servers, each searching within its own piece of the index. The query may also be sent to a number of other sub-systems that may process advertisements, check spelling, or look for specialized results, including images, videos, news, and so on." />
+      <item value="A web-search example will illustrate some of the challenges such a system needs to address." />
+      <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads. " />
+      <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. " />
+      <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. Understanding system behavior in this context requires observing related activities across many different programs and machines." />
+      <item value="The main goal of this paper is to report on our experience building, deploying and using the system for over two years, since Dapper’s foremost measure of success has been its usefulness to developer and operations teams." />
+      <item value="Dapper shares conceptual similarities with other tracing systems, particularly Magpie [3] and X-Trace [12], but certain design choices were made that have been key to its success in our environment, such as the use of sampling and restricting the instrumentation to a rather small number of common libraries." />
       <item value="load IPO Data" />
       <item value="Importing a class is effectively the same as declaring bean methods" />
       <item value="Decorates" />
@@ -28,34 +51,11 @@
       <item value="机构" />
       <item value="Separate Trading Limit Account" />
       <item value="Proprietary Trading Groups" />
-      <item value="// The correctness of this depends on head being initialized // before tail and on head.next being accurate if the current // thread is first in queue." />
-      <item value="before tail and on head.next being accurate if the current" />
-      <item value="The correctness of this depends on head being initialized" />
-      <item value="invocation" />
-      <item value="Convenience method to park and then check if interrupted * * @return {@code true} if interrupted" />
-      <item value="Used by condition wait methods as well as acquire." />
-      <item value="exclusive" />
-      <item value="Acquires" />
-      <item value="Acquires in exclusive uninterruptible mode for thread already in * queue. Used by condition wait methods as well as acquire." />
-      <item value="Try the fast path of enq" />
-      <item value="uninterpreted" />
-      <item value="the acquire argument. This value is conveyed to * {@link #tryAcquire} but is otherwise uninterpreted and * can represent anything you like." />
-      <item value="Creates and enqueues node for current thread and given mode." />
-      <item value="anticipation" />
-      <item value="ongoing" />
-      <item value="waitStatus value to indicate successor's thread needs unparking */" />
-      <item value="Indicate that we * need a signal, but don't park yet." />
-      <item value="PROPAGATE" />
-      <item value="This node has already set status asking a release * to signal it, so it can safely park." />
-      <item value="Head of the wait queue, lazily initialized. Except for * initialization, it is modified only via method setHead. Note: * If head exists, its waitStatus is guaranteed not to be * CANCELLED." />
-      <item value="enqueues" />
-      <item value="This class defines a nested {@link ConditionObject} class that * can be used as a {@link Condition} implementation by subclasses * supporting exclusive mode for which method {@link * #isHeldExclusively} reports whether synchronization is exclusively * held with respect to the current thread, method {@link #release} * invoked with the current {@link #getState} value fully releases * this object, and {@link #acquire}, given this saved state value, * eventually restores this object to its previous acquired state. No * {@code AbstractQueuedSynchronizer} method otherwise creates such a * condition, so if this constraint cannot be met, do not use it. The * behavior of {@link ConditionObject} depends of course on the * semantics of its synchronizer implementation." />
-      <item value="nested" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="295" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
