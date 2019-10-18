@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="load IPO Data" />
       <item value="Importing a class is effectively the same as declaring bean methods" />
       <item value="Decorates" />
       <item value="Indicates" />
@@ -50,12 +51,11 @@
       <item value="enqueues" />
       <item value="This class defines a nested {@link ConditionObject} class that * can be used as a {@link Condition} implementation by subclasses * supporting exclusive mode for which method {@link * #isHeldExclusively} reports whether synchronization is exclusively * held with respect to the current thread, method {@link #release} * invoked with the current {@link #getState} value fully releases * this object, and {@link #acquire}, given this saved state value, * eventually restores this object to its previous acquired state. No * {@code AbstractQueuedSynchronizer} method otherwise creates such a * condition, so if this constraint cannot be met, do not use it. The * behavior of {@link ConditionObject} depends of course on the * semantics of its synchronizer implementation." />
       <item value="nested" />
-      <item value="Subclasses that support only exclusive or * only shared modes need not define the methods supporting the unused mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="293" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
