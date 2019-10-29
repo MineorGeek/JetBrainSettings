@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seriously" />
       <item value="Marginable" />
       <item value="Liquidate" />
       <item value="二期" />
@@ -50,7 +51,6 @@
       <item value="Allows someone to add tags to a span if a trace is in progress" />
       <item value="Controls aspects of tracing such as the service name that shows up in the UI" />
       <item value="So that javascript can be hosted elsewhere" />
-      <item value="Frontend" />
     </histories>
     <option name="languageScores">
       <map>
