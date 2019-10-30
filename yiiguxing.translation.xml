@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I mean him " />
       <item value="短信" />
       <item value="seriously" />
       <item value="Marginable" />
@@ -50,7 +51,6 @@
       <item value="Indicates" />
       <item value="Decides" />
       <item value="Allows someone to add tags to a span if a trace is in progress" />
-      <item value="Controls aspects of tracing such as the service name that shows up in the UI" />
     </histories>
     <option name="languageScores">
       <map>
