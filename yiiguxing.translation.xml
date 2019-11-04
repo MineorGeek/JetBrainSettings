@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="牛" />
       <item value="multi" />
       <item value="I mean him " />
       <item value="短信" />
@@ -50,12 +51,11 @@
       <item value="Importing a class is effectively the same as declaring bean methods" />
       <item value="Decorates" />
       <item value="Indicates" />
-      <item value="Decides" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
