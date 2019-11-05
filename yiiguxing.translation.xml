@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="加密算法" />
+      <item value="AES" />
       <item value="编码" />
       <item value="字符集" />
       <item value="加密" />
@@ -49,13 +51,11 @@
       <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. " />
       <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. Understanding system behavior in this context requires observing related activities across many different programs and machines." />
       <item value="The main goal of this paper is to report on our experience building, deploying and using the system for over two years, since Dapper’s foremost measure of success has been its usefulness to developer and operations teams." />
-      <item value="Dapper shares conceptual similarities with other tracing systems, particularly Magpie [3] and X-Trace [12], but certain design choices were made that have been key to its success in our environment, such as the use of sampling and restricting the instrumentation to a rather small number of common libraries." />
-      <item value="load IPO Data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="ENGLISH" value="308" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
