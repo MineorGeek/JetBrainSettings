@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inverted" />
       <item value="review" />
       <item value="加密算法" />
       <item value="AES" />
@@ -50,7 +51,6 @@
       <item value="A web-search example will illustrate some of the challenges such a system needs to address." />
       <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads. " />
       <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. " />
-      <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. Understanding system behavior in this context requires observing related activities across many different programs and machines." />
     </histories>
     <option name="languageScores">
       <map>
