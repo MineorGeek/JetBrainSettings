@@ -1,64 +1,64 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="仓库" />
-      <item value="半径" />
-      <item value="Set the current data connection mode to      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt;.  Use this      * method only for data transfers between the client and server.      * This method causes a PASV (or EPSV) command to be issued to the server      * before the opening of every data connection, telling the server to      * open a data port to which the client will connect to conduct      * data transfers.  The FTPClient will stay in      * &lt;code&gt; PASSIVE_LOCAL_DATA_CONNECTION_MODE &lt;/code&gt; until the      * mode is changed by calling some other method such as" />
-      <item value="&lt;IPO ipo_name=&quot;02558-IPO&quot; company_name=&quot;Jinshang Bank Co., Ltd.&quot; symbol=&quot;02558&quot; location=&quot;HK&quot; status=&quot;OPEN&quot; current_price_used_for_creditcheck=&quot;3.98&quot; allocation_price=&quot;0.0&quot; currency=&quot;HKD&quot; order_updates_allowed=&quot;true&quot; pab_account_id=&quot;U1937210&quot; min_order_size=&quot;1000&quot; low_price_range=&quot;3.8&quot; high_price_range=&quot;3.98&quot; expected_offering_size=&quot;860000000&quot; financing_available=&quot;true&quot; margin_rate=&quot;0.25&quot; min_fully_paid_shares=&quot;1000&quot; underwriter=&quot;CCB International Capital Limited&quot; prospectus=&quot;https://www1.hkexnews.hk/listedco/listconews/sehk/2019/0628/ltn2019062804mited&quot; prospectus=&quot;https://www1.hkexnews.hk/listedco/listconews/seh00&quot; financing_available=&quot;true&quot; margin_rate=&quot;0.25&quot; min_fully_ŠLvate=&quot;2019-07-11T00:00:00.000+08allocation_price=&quot;0.0&quot; currency=&quot;HKD&quot; order_updates_all 7=&quot;httCamo/&gt;                     &lt;AllowedQu9-07-12T00:00:00.000+08:00&quot; price_confirmation¶sx:00&quot; refund_date=&quot;2019-07-11T00:00:00.000+08:00&quot;" />
-      <item value="A constant used to indicate the file(s) being transfered should * be treated as ASCII. This is the default file type. All constants * ending in &lt;code&gt;FILE_TYPE&lt;/code&gt; are used to indicate file types." />
-      <item value="Retrieves a named file from the server and writes it to the given      * OutputStream.  This method does NOT close the given OutputStream" />
-      <item value="retrieve" />
-      <item value="review" />
-      <item value="足够" />
-      <item value="可用" />
-      <item value="入金" />
-      <item value="出金" />
-      <item value="加款" />
-      <item value="shrink" />
-      <item value="缩小" />
-      <item value="范围" />
-      <item value="审核" />
-      <item value="increase" />
-      <item value="add" />
-      <item value="enhance" />
-      <item value="increase money" />
-      <item value="deduct" />
-      <item value="Deduction" />
-      <item value="减款" />
-      <item value="transfer in" />
-      <item value="转入" />
-      <item value="Addition" />
-      <item value="扣款加款" />
-      <item value="扣款" />
-      <item value="转出" />
-      <item value="资金不足" />
-      <item value="可用资金不足" />
-      <item value="内部错误" />
-      <item value="delta" />
-      <item value="setup" />
-      <item value="debt" />
-      <item value="外部的" />
-      <item value="外部" />
-      <item value="现金为负" />
-      <item value="欠款" />
-      <item value="owing" />
-      <item value="has debt" />
-      <item value="be in debt" />
-      <item value="负债" />
-      <item value="overdraft" />
-      <item value="融券" />
-      <item value="融资" />
-      <item value="gap" />
-      <item value="retryable" />
-      <item value="可以重试" />
+      <item value="加密算法" />
+      <item value="AES" />
+      <item value="编码" />
+      <item value="字符集" />
+      <item value="加密" />
+      <item value="牛" />
+      <item value="multi" />
+      <item value="I mean him " />
+      <item value="短信" />
+      <item value="seriously" />
+      <item value="Marginable" />
+      <item value="Liquidate" />
+      <item value="二期" />
+      <item value="Whitelist" />
+      <item value="rank" />
+      <item value="排列优先级" />
+      <item value="排序优先级" />
+      <item value="初始化仓库" />
+      <item value="market capitalization" />
+      <item value="市值" />
+      <item value="Market value" />
+      <item value="市盈率" />
+      <item value="Although Dapper shares many of its high-level ideas with systems such as Pinpoint and Magpie, our implementation contains a number of new contributions in this space." />
+      <item value="The value of Dapper as a platform for development of performance analysis tools, as much as a monitoring tool in itself, is one of a few unexpected outcomes we can identify in a retrospective assessment." />
+      <item value="Since Dapper has been in production and operating at large scale for years now, we decided it would be most appropriate to focus this paper on what Dapper’s deployment has taught us, how our design decisions played out, and in what ways it has been most useful." />
+      <item value="appropriate" />
+      <item value="These systems tend to be described in the research literature at a very early       point in their development, before there is an opportunity to clearly evaluate important design choices." />
+      <item value="These systems tend to be described in the research literature at a very early  Figure 1: The path taken through a simple serving system on behalf of user request X. The letter-labeled nodes represent processes in a distributed system.  point in their development, before there is an opportunity to clearly evaluate important design choices." />
+      <item value="The design space of distributed systems tracing tools has been explored in a number of excellent previous articles, among which Pinpoint [9], Magpie [3] and X-Trace [12] are most closely related to Dapper." />
+      <item value="We have found that Dapper’s system-wide data often focuses a performance investigation so that other tools can be applied locally." />
+      <item value="Making the system scalable and reducing performance overhead was facilitated by the use of adaptive sampling, as will be described in Section 4.4." />
+      <item value="An additional design goal is for tracing data to be available for analysis quickly after it is generated: ideally within a minute. Although a trace analysis system operating on hours-old data is still quite valuable, the availability of fresh information enables faster reaction to production anomalies." />
+      <item value="idealy" />
+      <item value="Scalability" />
+      <item value="This is especially important in a fast-paced development environment such as ours." />
+      <item value="A tracing infrastructure that relies on active collaboration from application-level developers in order to function becomes extremely fragile, and is often broken due to instrumentation bugs or omissions, therefore violating the ubiquity requirement." />
+      <item value="collaboration" />
+      <item value="transparency" />
+      <item value="compel" />
+      <item value="Low overhead" />
+      <item value="In addition, monitoring should always be turned on, because it is often the case that unusual or otherwise noteworthy system behavior is difﬁcult or impossible to reproduce." />
+      <item value="Ubiquity is important since the usefulness of a tracing infrastructure can be severly impacted if even small parts of the system are not being monitored." />
+      <item value="The scenario described above gives rise to two fundamental requirements for Dapper" />
+      <item value="user-visible" />
+      <item value="A front-end service may distribute a web query to many hundreds of query servers, each searching within its own piece of the index. The query may also be sent to a number of other sub-systems that may process advertisements, check spelling, or look for specialized results, including images, videos, news, and so on." />
+      <item value="A web-search example will illustrate some of the challenges such a system needs to address." />
+      <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads. " />
+      <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. " />
+      <item value="Such systems are of special interest  because large collections of small servers are a particularly cost-efﬁcient platform for Internet services workloads [4]. Understanding system behavior in this context requires observing related activities across many different programs and machines." />
+      <item value="The main goal of this paper is to report on our experience building, deploying and using the system for over two years, since Dapper’s foremost measure of success has been its usefulness to developer and operations teams." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="221" />
+        <entry key="ENGLISH" value="308" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="3" />
         <entry key="LATIN" value="1" />
         <entry key="JAPANESE" value="3" />
       </map>
