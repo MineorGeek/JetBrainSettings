@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Your team monitoring the API files may have noticed that in our latest OpenIPOs file" />
       <item value="ACK" />
       <item value="acknowledgement" />
       <item value="优化" />
@@ -50,7 +51,6 @@
       <item value="Low overhead" />
       <item value="In addition, monitoring should always be turned on, because it is often the case that unusual or otherwise noteworthy system behavior is difﬁcult or impossible to reproduce." />
       <item value="Ubiquity is important since the usefulness of a tracing infrastructure can be severly impacted if even small parts of the system are not being monitored." />
-      <item value="The scenario described above gives rise to two fundamental requirements for Dapper" />
     </histories>
     <option name="languageScores">
       <map>
