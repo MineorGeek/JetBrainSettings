@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Thanks for your confirmation，we’ll double check with our related colleague.  But may I know 5:00 BJT is the final ending time in the following HK IPOs? Or just because it’s during the system test period which you referred to yesterday?" />
+      <item value="At this stage we are closing specific HK IPOs at 05:00 BJT to facilitate our testing.  Once we have reviewed the impact on all the related processes/operations we will communicate what you can expect going forward.  Hopefully we will be in a position to confirm later next week." />
       <item value="accurate" />
       <item value="将要取消的" />
       <item value="Validate" />
@@ -49,8 +51,6 @@
       <item value="idealy" />
       <item value="Scalability" />
       <item value="This is especially important in a fast-paced development environment such as ours." />
-      <item value="A tracing infrastructure that relies on active collaboration from application-level developers in order to function becomes extremely fragile, and is often broken due to instrumentation bugs or omissions, therefore violating the ubiquity requirement." />
-      <item value="collaboration" />
     </histories>
     <option name="languageScores">
       <map>
