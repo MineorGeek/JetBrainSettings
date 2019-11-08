@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compile" />
       <item value="Thanks for your confirmation，we’ll double check with our related colleague.  But may I know 5:00 BJT is the final ending time in the following HK IPOs? Or just because it’s during the system test period which you referred to yesterday?" />
       <item value="At this stage we are closing specific HK IPOs at 05:00 BJT to facilitate our testing.  Once we have reviewed the impact on all the related processes/operations we will communicate what you can expect going forward.  Hopefully we will be in a position to confirm later next week." />
       <item value="accurate" />
@@ -50,7 +51,6 @@
       <item value="An additional design goal is for tracing data to be available for analysis quickly after it is generated: ideally within a minute. Although a trace analysis system operating on hours-old data is still quite valuable, the availability of fresh information enables faster reaction to production anomalies." />
       <item value="idealy" />
       <item value="Scalability" />
-      <item value="This is especially important in a fast-paced development environment such as ours." />
     </histories>
     <option name="languageScores">
       <map>
