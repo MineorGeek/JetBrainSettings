@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accurate" />
       <item value="将要取消的" />
       <item value="Validate" />
       <item value="校验" />
@@ -50,7 +51,6 @@
       <item value="This is especially important in a fast-paced development environment such as ours." />
       <item value="A tracing infrastructure that relies on active collaboration from application-level developers in order to function becomes extremely fragile, and is often broken due to instrumentation bugs or omissions, therefore violating the ubiquity requirement." />
       <item value="collaboration" />
-      <item value="transparency" />
     </histories>
     <option name="languageScores">
       <map>
