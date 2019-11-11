@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化" />
       <item value="compile" />
       <item value="Thanks for your confirmation，we’ll double check with our related colleague.  But may I know 5:00 BJT is the final ending time in the following HK IPOs? Or just because it’s during the system test period which you referred to yesterday?" />
       <item value="At this stage we are closing specific HK IPOs at 05:00 BJT to facilitate our testing.  Once we have reviewed the impact on all the related processes/operations we will communicate what you can expect going forward.  Hopefully we will be in a position to confirm later next week." />
@@ -12,7 +13,6 @@
       <item value="Your team monitoring the API files may have noticed that in our latest OpenIPOs file" />
       <item value="ACK" />
       <item value="acknowledgement" />
-      <item value="优化" />
       <item value="After the test is completed will send additional correspondence to further outline the changes we are making and confirm any revised operational timelines going forward." />
       <item value="You are welcome to make the files you submitted this am your final ones as planned but if you would like make further submissions throughout the day for this IPO, please do so.  Just make sure you let us know if you decide to make additional submissions otherwise we will consider the files you submitted this am as your final confirmed numbers" />
       <item value="inverted" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="ENGLISH" value="312" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
