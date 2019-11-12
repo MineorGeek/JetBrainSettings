@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SequenceDiagram" />
+      <item value="SequenceDiagram1" />
+      <item value="Interaction" />
+      <item value="Interaction1" />
+      <item value="Collaboration" />
       <item value="Return visit" />
       <item value="回访" />
       <item value="回放" />
@@ -46,11 +51,6 @@
       <item value="The value of Dapper as a platform for development of performance analysis tools, as much as a monitoring tool in itself, is one of a few unexpected outcomes we can identify in a retrospective assessment." />
       <item value="Since Dapper has been in production and operating at large scale for years now, we decided it would be most appropriate to focus this paper on what Dapper’s deployment has taught us, how our design decisions played out, and in what ways it has been most useful." />
       <item value="appropriate" />
-      <item value="These systems tend to be described in the research literature at a very early       point in their development, before there is an opportunity to clearly evaluate important design choices." />
-      <item value="These systems tend to be described in the research literature at a very early  Figure 1: The path taken through a simple serving system on behalf of user request X. The letter-labeled nodes represent processes in a distributed system.  point in their development, before there is an opportunity to clearly evaluate important design choices." />
-      <item value="The design space of distributed systems tracing tools has been explored in a number of excellent previous articles, among which Pinpoint [9], Magpie [3] and X-Trace [12] are most closely related to Dapper." />
-      <item value="We have found that Dapper’s system-wide data often focuses a performance investigation so that other tools can be applied locally." />
-      <item value="Making the system scalable and reducing performance overhead was facilitated by the use of adaptive sampling, as will be described in Section 4.4." />
     </histories>
     <option name="languageScores">
       <map>
