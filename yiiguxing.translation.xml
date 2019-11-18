@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eod" />
       <item value="kimber" />
       <item value="komber" />
       <item value="kombir" />
@@ -50,7 +51,6 @@
       <item value="multi" />
       <item value="I mean him " />
       <item value="短信" />
-      <item value="seriously" />
     </histories>
     <option name="languageScores">
       <map>
