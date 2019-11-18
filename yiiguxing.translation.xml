@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quota" />
+      <item value="Fixed quota" />
+      <item value="固定额度" />
+      <item value="绝对值" />
+      <item value="固定" />
+      <item value="定额分配" />
+      <item value="acreage" />
       <item value="guarantee" />
       <item value="Acount" />
       <item value="account" />
@@ -44,18 +51,11 @@
       <item value="二期" />
       <item value="Whitelist" />
       <item value="rank" />
-      <item value="排列优先级" />
-      <item value="排序优先级" />
-      <item value="初始化仓库" />
-      <item value="market capitalization" />
-      <item value="市值" />
-      <item value="Market value" />
-      <item value="市盈率" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="ENGLISH" value="317" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
