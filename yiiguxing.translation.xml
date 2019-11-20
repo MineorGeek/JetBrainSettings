@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解密内容" />
+      <item value="errorText" />
       <item value="the common destination of standard error and standard output can be redirected using redirectOutput" />
       <item value="If the value is set to true, then:  standard error is merged with the standard output and always sent to the same destination (this makes it easier to correlate error messages with the corresponding output) the common destination of standard error and standard output can be redirected using redirectOutput any redirection set by the redirectError method is ignored when creating a subprocess the stream returned from Process.getErrorStream() will always be a null input stream" />
       <item value="a destination for standard output and standard error. By default, the subprocess writes standard output and standard error to pipes. Java code can access these pipes via the input streams returned by Process.getInputStream() and Process.getErrorStream(). However, standard output and standard error may be redirected to other destinations using redirectOutput and redirectError. In this case, Process.getInputStream() and/or Process.getErrorStream() will return a null input stream, for which:" />
@@ -49,13 +51,11 @@
       <item value="回访" />
       <item value="回放" />
       <item value="优化" />
-      <item value="compile" />
-      <item value="Thanks for your confirmation，we’ll double check with our related colleague.  But may I know 5:00 BJT is the final ending time in the following HK IPOs? Or just because it’s during the system test period which you referred to yesterday?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
