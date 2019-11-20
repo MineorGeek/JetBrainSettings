@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We want to cache the stream contents for now, so we don't leak open streams from a Process instance." />
       <item value="piped" />
       <item value="Returns the output stream connected to the normal input of the subprocess." />
       <item value="Returns the input stream connected to the error output of the subprocess." />
@@ -50,12 +51,11 @@
       <item value="Validate" />
       <item value="校验" />
       <item value="娇艳" />
-      <item value="Your team monitoring the API files may have noticed that in our latest OpenIPOs file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="322" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
