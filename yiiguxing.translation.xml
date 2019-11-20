@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ken and Sunny, as we discussed previously, we have large of number of customers who is margin account and they donot have the funds of 100 shares ,we discussed that they would be able to subscription under 10 time leverage.  we found that more than 800 customer's order of 09988.HK was rejected,  we need to resubmit the files and we need their subscriptions are effected. Could you please help us to handle the problem? " />
+      <item value="Are you ready to send us multiple files a day including 9988.HK? This ensure we have sufficient funding prepared and allocated on our end." />
       <item value="recalculate" />
       <item value="accrued" />
       <item value="eod" />
@@ -49,8 +51,6 @@
       <item value="编码" />
       <item value="字符集" />
       <item value="加密" />
-      <item value="牛" />
-      <item value="multi" />
     </histories>
     <option name="languageScores">
       <map>
