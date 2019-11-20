@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It happens when GPG is confused where to read input from" />
+      <item value="Inappropriate ioctl for device" />
       <item value="Implementation note: It is a good idea for the returned      * input stream to be buffered." />
       <item value="A String containing the contents of the line, not including any line-termination characters, or null if the end of the stream has been reached" />
       <item value="解密内容" />
@@ -15,7 +17,6 @@
       <item value="piped" />
       <item value="Returns the output stream connected to the normal input of the subprocess." />
       <item value="Returns the input stream connected to the error output of the subprocess." />
-      <item value="Inappropriate ioctl for device" />
       <item value="cipher" />
       <item value="By default, the created subprocess does not have its own terminal or console. All its standard I/O (i.e. stdin, stdout, stderr) operations will be redirected to the parent process, where they can be accessed via the streams obtained using the methods getOutputStream(), getInputStream(), and getErrorStream(). The parent process uses these streams to feed input to and get output from the subprocess. Because some native platforms only provide limited buffer size for standard input and output streams, failure to promptly write the input stream or read the output stream of the subprocess may cause the subprocess to block, or even deadlock." />
       <item value="By default, the created subprocess does not have its own terminal or console." />
@@ -50,7 +51,6 @@
       <item value="Interaction1" />
       <item value="Collaboration" />
       <item value="Return visit" />
-      <item value="回访" />
     </histories>
     <option name="languageScores">
       <map>
