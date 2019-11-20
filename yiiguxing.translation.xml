@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="By default, the created subprocess does not have its own terminal or console. All its standard I/O (i.e. stdin, stdout, stderr) operations will be redirected to the parent process, where they can be accessed via the streams obtained using the methods getOutputStream(), getInputStream(), and getErrorStream(). The parent process uses these streams to feed input to and get output from the subprocess. Because some native platforms only provide limited buffer size for standard input and output streams, failure to promptly write the input stream or read the output stream of the subprocess may cause the subprocess to block, or even deadlock." />
+      <item value="By default, the created subprocess does not have its own terminal or console." />
+      <item value="The methods that create processes may not work well for special processes on certain native platforms, such as native windowing processes, daemon processes, Win16/DOS processes on Microsoft Windows, or shell scripts." />
+      <item value="performing" />
+      <item value="represented" />
       <item value="内容" />
       <item value="Ken and Sunny, as we discussed previously, we have large of number of customers who is margin account and they donot have the funds of 100 shares ,we discussed that they would be able to subscription under 10 time leverage.  we found that more than 800 customer's order of 09988.HK was rejected,  we need to resubmit the files and we need their subscriptions are effected. Could you please help us to handle the problem? " />
       <item value="Are you ready to send us multiple files a day including 9988.HK? This ensure we have sufficient funding prepared and allocated on our end." />
@@ -46,11 +51,6 @@
       <item value="After the test is completed will send additional correspondence to further outline the changes we are making and confirm any revised operational timelines going forward." />
       <item value="You are welcome to make the files you submitted this am your final ones as planned but if you would like make further submissions throughout the day for this IPO, please do so.  Just make sure you let us know if you decide to make additional submissions otherwise we will consider the files you submitted this am as your final confirmed numbers" />
       <item value="inverted" />
-      <item value="review" />
-      <item value="加密算法" />
-      <item value="AES" />
-      <item value="编码" />
-      <item value="字符集" />
     </histories>
     <option name="languageScores">
       <map>
