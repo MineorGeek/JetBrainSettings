@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化" />
       <item value="Returns the input stream connected to the normal output of the subprocess" />
       <item value="Returns the output stream connected to the normal input of the subprocess. Output to the stream is piped into the standard input of the process represented by this Process object. If the standard input of the subprocess has been redirected using ProcessBuilder.redirectInput then this method will return a null output stream.  Implementation note: It is a good idea for the returned output stream to be buffered.  " />
       <item value=" it seems a process reaper is related to the Linux kernel process management and is a daemon thread. It maintains the process state so that resources can be freed/released/collected on process termination and so on" />
@@ -50,12 +51,11 @@
       <item value="绝对值" />
       <item value="固定" />
       <item value="定额分配" />
-      <item value="acreage" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
