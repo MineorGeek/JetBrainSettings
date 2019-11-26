@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="仓库 " />
       <item value="gui" />
       <item value="翻译" />
       <item value="notify" />
@@ -50,12 +51,11 @@
       <item value="Returns the output stream connected to the normal input of the subprocess." />
       <item value="Returns the input stream connected to the error output of the subprocess." />
       <item value="cipher" />
-      <item value="By default, the created subprocess does not have its own terminal or console. All its standard I/O (i.e. stdin, stdout, stderr) operations will be redirected to the parent process, where they can be accessed via the streams obtained using the methods getOutputStream(), getInputStream(), and getErrorStream(). The parent process uses these streams to feed input to and get output from the subprocess. Because some native platforms only provide limited buffer size for standard input and output streams, failure to promptly write the input stream or read the output stream of the subprocess may cause the subprocess to block, or even deadlock." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
