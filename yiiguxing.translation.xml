@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separation" />
+      <item value="分隔" />
       <item value="仓库 " />
       <item value="gui" />
       <item value="翻译" />
@@ -49,13 +51,11 @@
       <item value="We want to cache the stream contents for now, so we don't leak open streams from a Process instance." />
       <item value="piped" />
       <item value="Returns the output stream connected to the normal input of the subprocess." />
-      <item value="Returns the input stream connected to the error output of the subprocess." />
-      <item value="cipher" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
