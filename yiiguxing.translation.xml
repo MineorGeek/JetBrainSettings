@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="notify" />
       <item value="In order to enhance understandability, Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
       <item value="For example, on some platforms, the system clipboard is * unavailable while it is accessed by another application" />
       <item value="Returns a transferable object representing the current contents * of the clipboard." />
@@ -50,7 +51,6 @@
       <item value="By default, the created subprocess does not have its own terminal or console. All its standard I/O (i.e. stdin, stdout, stderr) operations will be redirected to the parent process, where they can be accessed via the streams obtained using the methods getOutputStream(), getInputStream(), and getErrorStream(). The parent process uses these streams to feed input to and get output from the subprocess. Because some native platforms only provide limited buffer size for standard input and output streams, failure to promptly write the input stream or read the output stream of the subprocess may cause the subprocess to block, or even deadlock." />
       <item value="By default, the created subprocess does not have its own terminal or console." />
       <item value="The methods that create processes may not work well for special processes on certain native platforms, such as native windowing processes, daemon processes, Win16/DOS processes on Microsoft Windows, or shell scripts." />
-      <item value="performing" />
     </histories>
     <option name="languageScores">
       <map>
