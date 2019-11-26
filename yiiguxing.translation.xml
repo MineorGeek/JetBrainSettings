@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="In order to enhance understandability, Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
+      <item value="For example, on some platforms, the system clipboard is * unavailable while it is accessed by another application" />
+      <item value="Returns a transferable object representing the current contents * of the clipboard." />
       <item value="dominated" />
       <item value="Because of this, they play a key role in building reliable large-scale software systems." />
       <item value="reliable" />
@@ -48,14 +51,11 @@
       <item value="By default, the created subprocess does not have its own terminal or console." />
       <item value="The methods that create processes may not work well for special processes on certain native platforms, such as native windowing processes, daemon processes, Win16/DOS processes on Microsoft Windows, or shell scripts." />
       <item value="performing" />
-      <item value="represented" />
-      <item value="内容" />
-      <item value="Ken and Sunny, as we discussed previously, we have large of number of customers who is margin account and they donot have the funds of 100 shares ,we discussed that they would be able to subscription under 10 time leverage.  we found that more than 800 customer's order of 09988.HK was rejected,  we need to resubmit the files and we need their subscriptions are effected. Could you please help us to handle the problem? " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="330" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
