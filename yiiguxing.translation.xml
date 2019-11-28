@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="强制" />
       <item value="单引号" />
       <item value="quotation" />
       <item value="引号" />
@@ -50,12 +51,11 @@
       <item value="Inappropriate ioctl for device" />
       <item value="Implementation note: It is a good idea for the returned      * input stream to be buffered." />
       <item value="A String containing the contents of the line, not including any line-termination characters, or null if the end of the stream has been reached" />
-      <item value="解密内容" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
