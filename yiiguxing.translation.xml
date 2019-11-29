@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="翻译" />
+      <item value="语音" />
+      <item value="句子" />
       <item value="The new closing time is the latest we can support following our recent enhancements.  If 5am BJT is difficult for your side to support operationally due to business hours, you are welcome to submit your files earlier (i.e. the night prior) so long as you send a matching confirmation email notifying us at the time that it will be your final submission for the HK IPO in question." />
       <item value="强制" />
       <item value="单引号" />
@@ -17,7 +20,6 @@
       <item value="分隔" />
       <item value="仓库 " />
       <item value="gui" />
-      <item value="翻译" />
       <item value="notify" />
       <item value="In order to enhance understandability, Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
       <item value="For example, on some platforms, the system clipboard is * unavailable while it is accessed by another application" />
@@ -49,13 +51,11 @@
       <item value="Files.createTempFile} method provides an alternative method to create an * empty file in the temporary-file directory. Files created by that method * may have more restrictive access permissions to files created by this * method and so may be more suited to security-sensitive applications." />
       <item value="case study" />
       <item value="It happens when GPG is confused where to read input from" />
-      <item value="Inappropriate ioctl for device" />
-      <item value="Implementation note: It is a good idea for the returned      * input stream to be buffered." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
