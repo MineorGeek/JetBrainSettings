@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The new closing time is the latest we can support following our recent enhancements.  If 5am BJT is difficult for your side to support operationally due to business hours, you are welcome to submit your files earlier (i.e. the night prior) so long as you send a matching confirmation email notifying us at the time that it will be your final submission for the HK IPO in question." />
       <item value="强制" />
       <item value="单引号" />
       <item value="quotation" />
@@ -50,7 +51,6 @@
       <item value="It happens when GPG is confused where to read input from" />
       <item value="Inappropriate ioctl for device" />
       <item value="Implementation note: It is a good idea for the returned      * input stream to be buffered." />
-      <item value="A String containing the contents of the line, not including any line-termination characters, or null if the end of the stream has been reached" />
     </histories>
     <option name="languageScores">
       <map>
