@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="protocol " />
       <item value="We will assume that you we be using this revised timing of 23:00 BJT (the night prior to our confirmed cut off) for all HK IPOs going forward unless you confirm otherwise." />
       <item value="开发工程师" />
       <item value="sonny" />
@@ -50,7 +51,6 @@
       <item value="enhance" />
       <item value="延时" />
       <item value="优化" />
-      <item value="Returns the input stream connected to the normal output of the subprocess" />
     </histories>
     <option name="languageScores">
       <map>
