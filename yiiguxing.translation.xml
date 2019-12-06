@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Concurrent" />
+      <item value="并发" />
       <item value="Distributed" />
       <item value="分布式" />
       <item value="Portfolio" />
@@ -49,13 +51,11 @@
       <item value="demonstrate" />
       <item value="Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
       <item value="coherency" />
-      <item value="Raft separates the key elements of consensus" />
-      <item value="consensus" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
