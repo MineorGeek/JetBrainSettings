@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="初始化" />
+      <item value="The hide-window default window close operation" />
       <item value="Concurrent" />
       <item value="并发" />
       <item value="Distributed" />
@@ -49,13 +51,11 @@
       <item value="Raft also includes a new mechanism for changing the cluster membership, which uses overlapping majorities to guarantee safety." />
       <item value="mechanism" />
       <item value="demonstrate" />
-      <item value="Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
-      <item value="coherency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="354" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
