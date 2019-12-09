@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="We have experienced some technical difficulties with processing the refund &amp; allocations for 01503 which we are working to resolve.  At this stage it looks like it will not be processed until our US team comes online later this evening." />
+      <item value="  02500-IPO – The breakdown of allocations per end client looks correct from the checks we have run.  The only issue we can see is that the file “02500-IPO.t20.IPOAllocation.20191209.1575868667437” reports account_id=”U2125680” twice with the same total Quantity=”72000”.  The combined component allocations reported under each instance of account_id=”U2125680” has an aggregate of 72,000.  The Quantity of 72,000 is correct for U2125680.  Apologies for any confusion this has caused we will endeavor to prevent it reporting in this way in the future.  Let us know if you have seen any further issues in the allocation. " />
       <item value="初始化" />
       <item value="The hide-window default window close operation" />
       <item value="Concurrent" />
@@ -49,8 +51,6 @@
       <item value="Consensus algorithms allow a collection of machines to work as a coherent group that can survive the failures of some of its members." />
       <item value="overlapping" />
       <item value="Raft also includes a new mechanism for changing the cluster membership, which uses overlapping majorities to guarantee safety." />
-      <item value="mechanism" />
-      <item value="demonstrate" />
     </histories>
     <option name="languageScores">
       <map>
