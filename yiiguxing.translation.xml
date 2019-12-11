@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="approved" />
       <item value="transaction" />
       <item value="Unfortunately its not a simple task to rerun our file generating process as it is automated and links into a number of different processes.  Please try to process the existing file." />
       <item value="Do you have an ETA when you can increase the daily file submission frequency" />
@@ -50,7 +51,6 @@
       <item value="Returns a transferable object representing the current contents * of the clipboard." />
       <item value="dominated" />
       <item value="Because of this, they play a key role in building reliable large-scale software systems." />
-      <item value="reliable" />
     </histories>
     <option name="languageScores">
       <map>
