@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transaction" />
       <item value="Unfortunately its not a simple task to rerun our file generating process as it is automated and links into a number of different processes.  Please try to process the existing file." />
       <item value="Do you have an ETA when you can increase the daily file submission frequency" />
       <item value="We have experienced some technical difficulties with processing the refund &amp; allocations for 01503 which we are working to resolve.  At this stage it looks like it will not be processed until our US team comes online later this evening." />
@@ -50,7 +51,6 @@
       <item value="dominated" />
       <item value="Because of this, they play a key role in building reliable large-scale software systems." />
       <item value="reliable" />
-      <item value="Consensus algorithms allow a collection of machines to work as a coherent group that can survive the failures of some of its members." />
     </histories>
     <option name="languageScores">
       <map>
