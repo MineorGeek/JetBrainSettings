@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corresponding" />
       <item value="approved" />
       <item value="transaction" />
       <item value="Unfortunately its not a simple task to rerun our file generating process as it is automated and links into a number of different processes.  Please try to process the existing file." />
@@ -50,12 +51,11 @@
       <item value="For example, on some platforms, the system clipboard is * unavailable while it is accessed by another application" />
       <item value="Returns a transferable object representing the current contents * of the clipboard." />
       <item value="dominated" />
-      <item value="Because of this, they play a key role in building reliable large-scale software systems." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="355" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
