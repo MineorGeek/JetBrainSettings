@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="调拨" />
       <item value="compile" />
       <item value="globals" />
       <item value="GLOBAL" />
@@ -50,12 +51,11 @@
       <item value="仓库 " />
       <item value="gui" />
       <item value="notify" />
-      <item value="In order to enhance understandability, Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
