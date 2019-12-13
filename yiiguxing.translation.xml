@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compile" />
       <item value="globals" />
       <item value="GLOBAL" />
       <item value="corresponding" />
@@ -50,7 +51,6 @@
       <item value="gui" />
       <item value="notify" />
       <item value="In order to enhance understandability, Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
-      <item value="For example, on some platforms, the system clipboard is * unavailable while it is accessed by another application" />
     </histories>
     <option name="languageScores">
       <map>
