@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="attempts" />
+      <item value="尝试次数" />
+      <item value="尝试" />
+      <item value="需要审核" />
+      <item value="需要审核的" />
       <item value="treasury" />
       <item value="调拨" />
       <item value="compile" />
@@ -46,16 +51,11 @@
       <item value="pre" />
       <item value="post" />
       <item value="调整" />
-      <item value="调整后" />
-      <item value="separation" />
-      <item value="分隔" />
-      <item value="仓库 " />
-      <item value="gui" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="ENGLISH" value="358" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
