@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retries" />
+      <item value="reties" />
       <item value="内部资金" />
       <item value="内部资金划账" />
       <item value="Callback" />
@@ -49,8 +51,6 @@
       <item value="语音" />
       <item value="句子" />
       <item value="The new closing time is the latest we can support following our recent enhancements.  If 5am BJT is difficult for your side to support operationally due to business hours, you are welcome to submit your files earlier (i.e. the night prior) so long as you send a matching confirmation email notifying us at the time that it will be your final submission for the HK IPO in question." />
-      <item value="强制" />
-      <item value="单引号" />
     </histories>
     <option name="languageScores">
       <map>
