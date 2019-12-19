@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="可用的" />
+      <item value="AVALIABLE" />
+      <item value="不支持" />
+      <item value="support" />
+      <item value="Unsupport" />
       <item value="callback" />
       <item value="retries" />
       <item value="reties" />
@@ -46,16 +51,11 @@
       <item value="ra" />
       <item value="运营" />
       <item value="encapsulates" />
-      <item value="英语" />
-      <item value="汉语" />
-      <item value="翻译" />
-      <item value="语音" />
-      <item value="句子" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="ENGLISH" value="365" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
