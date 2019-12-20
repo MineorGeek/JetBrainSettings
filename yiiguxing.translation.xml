@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invoke" />
+      <item value="业务" />
       <item value="处理" />
       <item value="truncate" />
       <item value="网关" />
@@ -49,13 +51,11 @@
       <item value="分布式" />
       <item value="Portfolio" />
       <item value="rank" />
-      <item value="We don’t have a specific preference, the goal here is that we are able to have periodic monitoring place of your subscriptions trend to ensure everything is smooth and we have time to adjust limits if needed. Doing once a day may be too infrequent that we won’t be able to capture any issues in time and may miss important windows before deadlines.  " />
-      <item value="protocol " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
