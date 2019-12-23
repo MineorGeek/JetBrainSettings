@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计信息" />
       <item value="转入方" />
       <item value="宿主" />
       <item value="withdrawals" />
@@ -50,12 +51,11 @@
       <item value="  02500-IPO – The breakdown of allocations per end client looks correct from the checks we have run.  The only issue we can see is that the file “02500-IPO.t20.IPOAllocation.20191209.1575868667437” reports account_id=”U2125680” twice with the same total Quantity=”72000”.  The combined component allocations reported under each instance of account_id=”U2125680” has an aggregate of 72,000.  The Quantity of 72,000 is correct for U2125680.  Apologies for any confusion this has caused we will endeavor to prevent it reporting in this way in the future.  Let us know if you have seen any further issues in the allocation. " />
       <item value="初始化" />
       <item value="The hide-window default window close operation" />
-      <item value="Concurrent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
