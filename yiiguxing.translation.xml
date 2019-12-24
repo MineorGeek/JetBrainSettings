@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计息" />
+      <item value="上手截止时间" />
+      <item value="招股截止时间" />
       <item value="失败" />
       <item value="重试" />
       <item value="Withdrawals" />
@@ -48,14 +51,11 @@
       <item value="corresponding" />
       <item value="approved" />
       <item value="transaction" />
-      <item value="Unfortunately its not a simple task to rerun our file generating process as it is automated and links into a number of different processes.  Please try to process the existing file." />
-      <item value="Do you have an ETA when you can increase the daily file submission frequency" />
-      <item value="We have experienced some technical difficulties with processing the refund &amp; allocations for 01503 which we are working to resolve.  At this stage it looks like it will not be processed until our US team comes online later this evening." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="ENGLISH" value="375" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
