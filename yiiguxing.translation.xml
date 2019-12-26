@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绝对路径" />
       <item value="绳子" />
       <item value="扣减" />
       <item value="注册" />
@@ -50,12 +51,11 @@
       <item value="需要审核的" />
       <item value="treasury" />
       <item value="调拨" />
-      <item value="compile" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
