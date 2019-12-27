@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Base64 padding character {@code '='} is accepted and * interpreted as the end of the encoded byte data, but is not * required. So if the final unit of the encoded byte data only has * two or three Base64 characters (without the corresponding padding * character(s) padded), they are decoded as if followed by padding * character(s). If there is a padding character present in the * final unit, the correct number of padding character(s) must be * present, otherwise {@code IllegalArgumentException} ( * {@code IOException} when reading from a Base64 stream) is thrown * during decoding." />
+      <item value="Decoder" />
+      <item value="Encoder" />
       <item value="上手" />
       <item value="绝对路径" />
       <item value="绳子" />
@@ -48,14 +51,11 @@
       <item value="attempts" />
       <item value="尝试次数" />
       <item value="尝试" />
-      <item value="需要审核" />
-      <item value="需要审核的" />
-      <item value="treasury" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="383" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
