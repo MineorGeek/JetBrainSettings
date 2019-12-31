@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="目的地" />
       <item value="拼接" />
       <item value="构造" />
       <item value="分隔符" />
       <item value="不合法" />
-      <item value="目的地" />
       <item value="目标" />
       <item value="源文件不存在" />
       <item value="remote file hasn't download to local" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
