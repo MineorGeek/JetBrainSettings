@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="源" />
       <item value="数据迁移" />
       <item value="migration" />
       <item value="迁移" />
@@ -50,12 +51,11 @@
       <item value="最近" />
       <item value="最近一次" />
       <item value="最后一次" />
-      <item value="重试次数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
