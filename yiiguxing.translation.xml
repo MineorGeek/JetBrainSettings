@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已经完成" />
+      <item value="受理" />
+      <item value="转账记录已经被审核" />
+      <item value="转账记录已经被处理" />
+      <item value="Transferrer" />
       <item value="A RuntimeException thrown by the &#9; * callback is treated as application exception that enforces a rollback. Any such &#9; * exception will be propagated to the caller of the template, unless there is a &#9; * problem rolling back, in which case a TransactionException will be thrown." />
       <item value="Any such &#9; * exception will be propagated to the caller of the template, unless there is a &#9; * problem rolling back, in which case a TransactionException will be thrown." />
       <item value="review" />
@@ -46,16 +51,11 @@
       <item value="withdrawals" />
       <item value="Withdraws" />
       <item value="decode" />
-      <item value="invoke" />
-      <item value="业务" />
-      <item value="处理" />
-      <item value="truncate" />
-      <item value="网关" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="ENGLISH" value="400" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
