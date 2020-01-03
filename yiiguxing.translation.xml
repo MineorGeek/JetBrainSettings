@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A RuntimeException thrown by the &#9; * callback is treated as application exception that enforces a rollback. Any such &#9; * exception will be propagated to the caller of the template, unless there is a &#9; * problem rolling back, in which case a TransactionException will be thrown." />
+      <item value="Any such &#9; * exception will be propagated to the caller of the template, unless there is a &#9; * problem rolling back, in which case a TransactionException will be thrown." />
       <item value="review" />
       <item value="check" />
       <item value="核验" />
@@ -49,8 +51,6 @@
       <item value="处理" />
       <item value="truncate" />
       <item value="网关" />
-      <item value="代理" />
-      <item value="委托" />
     </histories>
     <option name="languageScores">
       <map>
