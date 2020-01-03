@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="review" />
+      <item value="check" />
+      <item value="核验" />
+      <item value="approval" />
+      <item value="批准" />
       <item value="判断" />
       <item value="尽调" />
       <item value="目的地" />
@@ -46,16 +51,11 @@
       <item value="网关" />
       <item value="代理" />
       <item value="委托" />
-      <item value="Callbackable" />
-      <item value="fee" />
-      <item value="可用的" />
-      <item value="AVALIABLE" />
-      <item value="不支持" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
