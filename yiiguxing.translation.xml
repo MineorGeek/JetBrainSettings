@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="portfolio" />
       <item value="已经完成" />
       <item value="受理" />
       <item value="转账记录已经被审核" />
@@ -50,7 +51,6 @@
       <item value="宿主" />
       <item value="withdrawals" />
       <item value="Withdraws" />
-      <item value="decode" />
     </histories>
     <option name="languageScores">
       <map>
