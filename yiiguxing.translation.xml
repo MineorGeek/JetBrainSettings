@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不需要的" />
       <item value="配资" />
+      <item value="Financed" />
+      <item value="Finance" />
+      <item value="Financing" />
+      <item value="配资成功" />
       <item value="bravo" />
       <item value="portfolio" />
       <item value="已经完成" />
@@ -46,16 +51,11 @@
       <item value="上手截止时间" />
       <item value="招股截止时间" />
       <item value="失败" />
-      <item value="重试" />
-      <item value="Withdrawals" />
-      <item value="统计信息" />
-      <item value="转入方" />
-      <item value="宿主" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="ENGLISH" value="404" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
