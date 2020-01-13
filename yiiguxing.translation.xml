@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="financing" />
+      <item value="margin" />
       <item value="不需要的" />
       <item value="配资" />
       <item value="Financed" />
@@ -49,8 +51,6 @@
       <item value="Strategy" />
       <item value="计息" />
       <item value="上手截止时间" />
-      <item value="招股截止时间" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
