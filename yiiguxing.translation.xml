@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="include" />
+      <item value="包含" />
       <item value="financing" />
       <item value="margin" />
       <item value="不需要的" />
@@ -49,13 +51,11 @@
       <item value="注册" />
       <item value="strategies" />
       <item value="Strategy" />
-      <item value="计息" />
-      <item value="上手截止时间" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="ARABIC" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="FRENCH" value="3" />
