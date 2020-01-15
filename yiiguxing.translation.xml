@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="absolute" />
       <item value="Meaning we will likely reduce the quantity of shares allocated to U2125689 by the 2,000 that was allocated for the cancelled order.  Myself or another member of the team will reach out later with a further confirmation." />
       <item value=" We will likely need to treat this in the same way we would an over fill on a clients order. " />
       <item value="    Our programming team is working on a fix to prevent such cases from occurring in the future." />
@@ -50,7 +51,6 @@
       <item value="迁移" />
       <item value="The Base64 padding character {@code '='} is accepted and * interpreted as the end of the encoded byte data, but is not * required. So if the final unit of the encoded byte data only has * two or three Base64 characters (without the corresponding padding * character(s) padded), they are decoded as if followed by padding * character(s). If there is a padding character present in the * final unit, the correct number of padding character(s) must be * present, otherwise {@code IllegalArgumentException} ( * {@code IOException} when reading from a Base64 stream) is thrown * during decoding." />
       <item value="Decoder" />
-      <item value="Encoder" />
     </histories>
     <option name="languageScores">
       <map>
