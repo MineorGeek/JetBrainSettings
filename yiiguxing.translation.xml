@@ -1,13 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="配资" />
       <item value="module" />
       <item value="individual" />
       <item value="个性化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
