@@ -1,75 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="负数" />
-      <item value="初始化" />
-      <item value="The hide-window default window close operation" />
-      <item value="Concurrent" />
-      <item value="并发" />
-      <item value="Distributed" />
-      <item value="分布式" />
-      <item value="Portfolio" />
-      <item value="rank" />
-      <item value="We don’t have a specific preference, the goal here is that we are able to have periodic monitoring place of your subscriptions trend to ensure everything is smooth and we have time to adjust limits if needed. Doing once a day may be too infrequent that we won’t be able to capture any issues in time and may miss important windows before deadlines.  " />
-      <item value="protocol " />
-      <item value="We will assume that you we be using this revised timing of 23:00 BJT (the night prior to our confirmed cut off) for all HK IPOs going forward unless you confirm otherwise." />
-      <item value="开发工程师" />
-      <item value="sonny" />
-      <item value="开发" />
-      <item value="ra" />
-      <item value="运营" />
-      <item value="encapsulates" />
-      <item value="英语" />
-      <item value="汉语" />
-      <item value="翻译" />
-      <item value="语音" />
-      <item value="句子" />
-      <item value="The new closing time is the latest we can support following our recent enhancements.  If 5am BJT is difficult for your side to support operationally due to business hours, you are welcome to submit your files earlier (i.e. the night prior) so long as you send a matching confirmation email notifying us at the time that it will be your final submission for the HK IPO in question." />
-      <item value="强制" />
-      <item value="单引号" />
-      <item value="quotation" />
-      <item value="引号" />
-      <item value="recipient" />
-      <item value="最新" />
-      <item value="最近" />
-      <item value="pre" />
-      <item value="post" />
-      <item value="调整" />
-      <item value="调整后" />
-      <item value="separation" />
-      <item value="分隔" />
-      <item value="仓库 " />
-      <item value="gui" />
-      <item value="notify" />
-      <item value="In order to enhance understandability, Raft separates the key elements of consensus, such as leader election, log replication, and safety, and it enforces a stronger degree of coherency to reduce the number of states that must be considered." />
-      <item value="For example, on some platforms, the system clipboard is * unavailable while it is accessed by another application" />
-      <item value="Returns a transferable object representing the current contents * of the clipboard." />
-      <item value="dominated" />
-      <item value="Because of this, they play a key role in building reliable large-scale software systems." />
-      <item value="reliable" />
-      <item value="Consensus algorithms allow a collection of machines to work as a coherent group that can survive the failures of some of its members." />
-      <item value="overlapping" />
-      <item value="Raft also includes a new mechanism for changing the cluster membership, which uses overlapping majorities to guarantee safety." />
-      <item value="mechanism" />
+      <item value="module" />
+      <item value="individual" />
+      <item value="个性化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="355" />
-        <entry key="ARABIC" value="1" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="FRENCH" value="3" />
-        <entry key="LATIN" value="1" />
-        <entry key="JAPANESE" value="3" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
