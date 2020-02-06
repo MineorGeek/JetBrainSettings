@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prematurely" />
+      <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421.  This exception may be caught either      *      as an IOException or independently as itself." />
+      <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421. " />
       <item value="配资" />
       <item value="module" />
       <item value="individual" />
