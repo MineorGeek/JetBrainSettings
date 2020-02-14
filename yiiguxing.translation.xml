@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="financing" />
+      <item value="配资" />
+      <item value="老虎配资" />
       <item value="GENERAL" />
       <item value="通用" />
       <item value="通用的" />
@@ -10,14 +13,13 @@
       <item value="prematurely" />
       <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421.  This exception may be caught either      *      as an IOException or independently as itself." />
       <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421. " />
-      <item value="配资" />
       <item value="module" />
       <item value="individual" />
       <item value="个性化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
