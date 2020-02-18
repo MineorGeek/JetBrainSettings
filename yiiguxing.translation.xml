@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="违法的" />
+      <item value="illgel" />
+      <item value="illgal" />
+      <item value="w" />
       <item value="超出" />
       <item value="占用" />
       <item value="提示" />
@@ -23,7 +26,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
