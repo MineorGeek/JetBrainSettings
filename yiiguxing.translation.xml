@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="statuses" />
+      <item value="statues" />
       <item value="temlate" />
       <item value="Validate" />
       <item value="校验" />
