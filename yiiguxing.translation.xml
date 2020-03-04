@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="underwriter" />
+      <item value="Release" />
+      <item value="Resume" />
+      <item value="恢复" />
       <item value="消耗" />
+      <item value="占用" />
+      <item value="占用额度" />
+      <item value="underwriter" />
       <item value="statuses" />
       <item value="statues" />
       <item value="temlate" />
@@ -14,7 +19,6 @@
       <item value="illgal" />
       <item value="w" />
       <item value="超出" />
-      <item value="占用" />
       <item value="提示" />
       <item value="financing" />
       <item value="配资" />
@@ -34,7 +38,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
