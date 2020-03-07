@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="应该" />
       <item value="revert" />
       <item value="回退" />
       <item value="退化" />
@@ -42,7 +43,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
