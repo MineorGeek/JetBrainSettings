@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="额外" />
+      <item value="补偿" />
+      <item value="差值" />
+      <item value="差值 " />
       <item value="外键" />
       <item value="副本" />
       <item value="Principle" />
@@ -48,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
