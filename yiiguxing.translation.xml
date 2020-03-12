@@ -1,75 +1,65 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="don't " />
-      <item value="Nationality" />
-      <item value="可用" />
-      <item value="商务" />
-      <item value="shangwu" />
-      <item value="上一次" />
-      <item value="business" />
-      <item value="业务" />
-      <item value="第三方" />
-      <item value="业务方" />
-      <item value="latest" />
-      <item value="absolute" />
-      <item value="Meaning we will likely reduce the quantity of shares allocated to U2125689 by the 2,000 that was allocated for the cancelled order.  Myself or another member of the team will reach out later with a further confirmation." />
-      <item value=" We will likely need to treat this in the same way we would an over fill on a clients order. " />
-      <item value="    Our programming team is working on a fix to prevent such cases from occurring in the future." />
-      <item value="HISTORY" />
-      <item value="过期" />
-      <item value="目的地" />
-      <item value="目标" />
-      <item value="desc" />
-      <item value="migrate" />
-      <item value="include" />
-      <item value="包含" />
+      <item value="可使用" />
+      <item value="可食用" />
+      <item value="个人的" />
+      <item value="额外" />
+      <item value="补偿" />
+      <item value="差值" />
+      <item value="差值 " />
+      <item value="外键" />
+      <item value="副本" />
+      <item value="Principle" />
+      <item value="组成" />
       <item value="financing" />
-      <item value="margin" />
-      <item value="不需要的" />
+      <item value="应该" />
+      <item value="revert" />
+      <item value="回退" />
+      <item value="退化" />
+      <item value="actual" />
+      <item value="Release" />
+      <item value="Resume" />
+      <item value="恢复" />
+      <item value="消耗" />
+      <item value="占用" />
+      <item value="占用额度" />
+      <item value="underwriter" />
+      <item value="statuses" />
+      <item value="statues" />
+      <item value="temlate" />
+      <item value="Validate" />
+      <item value="校验" />
+      <item value="中签" />
+      <item value="违法的" />
+      <item value="illgel" />
+      <item value="illgal" />
+      <item value="w" />
+      <item value="超出" />
+      <item value="提示" />
       <item value="配资" />
-      <item value="Financed" />
-      <item value="Finance" />
-      <item value="Financing" />
-      <item value="配资成功" />
-      <item value="bravo" />
-      <item value="portfolio" />
-      <item value="已经完成" />
-      <item value="受理" />
-      <item value="转账记录已经被审核" />
-      <item value="转账记录已经被处理" />
-      <item value="Transferrer" />
-      <item value="A RuntimeException thrown by the &#9; * callback is treated as application exception that enforces a rollback. Any such &#9; * exception will be propagated to the caller of the template, unless there is a &#9; * problem rolling back, in which case a TransactionException will be thrown." />
-      <item value="Any such &#9; * exception will be propagated to the caller of the template, unless there is a &#9; * problem rolling back, in which case a TransactionException will be thrown." />
-      <item value="review" />
-      <item value="check" />
-      <item value="核验" />
-      <item value="approval" />
-      <item value="批准" />
-      <item value="判断" />
-      <item value="尽调" />
-      <item value="拼接" />
-      <item value="构造" />
-      <item value="分隔符" />
+      <item value="老虎配资" />
+      <item value="GENERAL" />
+      <item value="通用" />
+      <item value="通用的" />
+      <item value="个人" />
+      <item value="tricky" />
+      <item value="空行" />
+      <item value="prematurely" />
+      <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421.  This exception may be caught either      *      as an IOException or independently as itself." />
+      <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421. " />
+      <item value="module" />
+      <item value="individual" />
+      <item value="个性化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="411" />
-        <entry key="ARABIC" value="1" />
-        <entry key="BULGARIAN" value="1" />
-        <entry key="FRENCH" value="3" />
-        <entry key="LATIN" value="1" />
-        <entry key="JAPANESE" value="3" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
