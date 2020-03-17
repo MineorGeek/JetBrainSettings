@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阶梯" />
       <item value="Avaliable" />
       <item value="优化" />
       <item value="Throttle" />
@@ -50,12 +51,11 @@
       <item value="tricky" />
       <item value="空行" />
       <item value="prematurely" />
-      <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421.  This exception may be caught either      *      as an IOException or independently as itself." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
