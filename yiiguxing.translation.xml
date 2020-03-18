@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process" />
+      <item value="processFee" />
       <item value="理论" />
       <item value="commission" />
       <item value="阶梯" />
@@ -49,8 +51,6 @@
       <item value="GENERAL" />
       <item value="通用" />
       <item value="通用的" />
-      <item value="个人" />
-      <item value="tricky" />
     </histories>
     <option name="languageScores">
       <map>
