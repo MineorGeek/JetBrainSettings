@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Main endpoints are required and are thus announced immediately  * while additional endpoints are only announced if the path also has a main  * endpoint. " />
+      <item value="decoupled" />
+      <item value="When announcing an endpoint with additional endpoints they all need to join  * the path together. However, announcements are decoupled and can happen in any  * order. The ZkAnnouncer will gather endpoints together in order to announce  * them as a group. Main endpoints are required and are thus announced immediately  * while additional endpoints are only announced if the path also has a main  * endpoint. For this reason if a main endpoint is announced first and an additional  * endpoint announced later, the announcer must leave the path and re-announce. The  * process is similar: leave the path, then remove either the additional endpoint  * or the main endpoint, re-join only if the main endpoint exists." />
       <item value="注册" />
       <item value="process" />
       <item value="processFee" />
@@ -48,9 +51,6 @@
       <item value="超出" />
       <item value="提示" />
       <item value="配资" />
-      <item value="老虎配资" />
-      <item value="GENERAL" />
-      <item value="通用" />
     </histories>
     <option name="languageScores">
       <map>
