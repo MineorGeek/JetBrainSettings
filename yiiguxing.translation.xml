@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="optimize " />
       <item value="SwitchOn" />
       <item value="SwitchO" />
       <item value="Main endpoints are required and are thus announced immediately  * while additional endpoints are only announced if the path also has a main  * endpoint. " />
@@ -50,7 +51,6 @@
       <item value="illgel" />
       <item value="illgal" />
       <item value="w" />
-      <item value="超出" />
     </histories>
     <option name="languageScores">
       <map>
