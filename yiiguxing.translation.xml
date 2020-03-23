@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="解析" />
+      <item value="resolve" />
       <item value="optimize " />
       <item value="SwitchOn" />
       <item value="SwitchO" />
@@ -49,13 +51,11 @@
       <item value="中签" />
       <item value="违法的" />
       <item value="illgel" />
-      <item value="illgal" />
-      <item value="w" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="29" />
       </map>
     </option>
   </component>
