@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="auth" />
+      <item value="验证" />
       <item value="extRequestID contains client supplied requestID (present only if nonempty in the request)" />
       <item value="百分百" />
       <item value="解析" />
@@ -49,13 +51,11 @@
       <item value="statues" />
       <item value="temlate" />
       <item value="Validate" />
-      <item value="校验" />
-      <item value="中签" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
