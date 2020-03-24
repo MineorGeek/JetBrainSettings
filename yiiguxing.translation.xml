@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Loan" />
+      <item value="LoanValue" />
       <item value="auth" />
       <item value="验证" />
       <item value="extRequestID contains client supplied requestID (present only if nonempty in the request)" />
@@ -49,8 +51,6 @@
       <item value="underwriter" />
       <item value="statuses" />
       <item value="statues" />
-      <item value="temlate" />
-      <item value="Validate" />
     </histories>
     <option name="languageScores">
       <map>
