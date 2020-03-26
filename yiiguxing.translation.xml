@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="一个小时内" />
+      <item value="前一个小时" />
       <item value="未处理" />
       <item value="记录仍未审核" />
       <item value="存在未审核记录、" />
@@ -49,13 +51,11 @@
       <item value="Release" />
       <item value="Resume" />
       <item value="恢复" />
-      <item value="消耗" />
-      <item value="占用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
