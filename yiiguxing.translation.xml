@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reconcile" />
+      <item value="criteria" />
       <item value="Milestone" />
       <item value="一个小时内" />
       <item value="前一个小时" />
@@ -49,8 +51,6 @@
       <item value="回退" />
       <item value="退化" />
       <item value="actual" />
-      <item value="Release" />
-      <item value="Resume" />
     </histories>
     <option name="languageScores">
       <map>
