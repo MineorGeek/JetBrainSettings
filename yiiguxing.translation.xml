@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抢占" />
+      <item value="竞争" />
+      <item value="isolation" />
+      <item value="写隔离" />
       <item value="issue" />
       <item value="Auto - the container will issue the ack/nack based on whether &#9; * the listener returns normally, or throws an exception. &#9; * &lt;p&gt;&lt;em&gt;Do not confuse with RabbitMQ {@code autoAck} which is &#9; * represented by {@link #NONE} here&lt;/em&gt;." />
       <item value="correlation" />
@@ -47,15 +51,11 @@
       <item value="差值 " />
       <item value="外键" />
       <item value="副本" />
-      <item value="Principle" />
-      <item value="组成" />
-      <item value="financing" />
-      <item value="应该" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
