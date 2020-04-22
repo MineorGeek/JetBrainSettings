@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="垫付资金" />
+      <item value="垫付" />
+      <item value="补贴资金" />
+      <item value="advances" />
+      <item value="Subsidy" />
+      <item value="补贴" />
+      <item value="Mat" />
+      <item value="垫资" />
+      <item value="配资" />
+      <item value="小类" />
+      <item value="大类" />
       <item value="DateTime is the standard implementation of an unmodifiable datetime class." />
       <item value="Ratio" />
       <item value="all non-transient fields" />
@@ -40,22 +51,11 @@
       <item value="存在未审核记录" />
       <item value="Loan" />
       <item value="LoanValue" />
-      <item value="auth" />
-      <item value="验证" />
-      <item value="extRequestID contains client supplied requestID (present only if nonempty in the request)" />
-      <item value="百分百" />
-      <item value="解析" />
-      <item value="resolve" />
-      <item value="optimize " />
-      <item value="SwitchOn" />
-      <item value="SwitchO" />
-      <item value="Main endpoints are required and are thus announced immediately  * while additional endpoints are only announced if the path also has a main  * endpoint. " />
-      <item value="decoupled" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="ENGLISH" value="51" />
       </map>
     </option>
   </component>
