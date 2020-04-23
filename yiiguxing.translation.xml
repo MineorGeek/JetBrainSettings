@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minimum capital" />
+      <item value="最低资金" />
+      <item value="入场费" />
+      <item value="起始" />
+      <item value="entrance" />
+      <item value="港股入场门槛" />
+      <item value="入场" />
+      <item value="accredited" />
+      <item value="入场资格" />
+      <item value="准入资格" />
+      <item value="准入门槛" />
       <item value="阈值" />
       <item value="路由规则" />
       <item value="Min" />
@@ -40,22 +51,11 @@
       <item value="preemption" />
       <item value="抢占" />
       <item value="compete" />
-      <item value="竞争" />
-      <item value="isolation" />
-      <item value="写隔离" />
-      <item value="issue" />
-      <item value="Auto - the container will issue the ack/nack based on whether &#9; * the listener returns normally, or throws an exception. &#9; * &lt;p&gt;&lt;em&gt;Do not confuse with RabbitMQ {@code autoAck} which is &#9; * represented by {@link #NONE} here&lt;/em&gt;." />
-      <item value="correlation" />
-      <item value="correlationData" />
-      <item value="reconcile" />
-      <item value="criteria" />
-      <item value="Milestone" />
-      <item value="一个小时内" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
