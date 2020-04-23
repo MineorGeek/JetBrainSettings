@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阈值" />
       <item value="路由规则" />
       <item value="Min" />
       <item value="Threshold" />
-      <item value="阈值" />
       <item value="可用" />
       <item value="限额" />
       <item value="额度" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
