@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evaluate" />
       <item value="合适" />
       <item value="caution" />
       <item value="Minimum capital" />
@@ -50,7 +51,6 @@
       <item value="隔离" />
       <item value="mutex" />
       <item value="互斥" />
-      <item value="preemption" />
     </histories>
     <option name="languageScores">
       <map>
