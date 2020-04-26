@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入场准入资格" />
+      <item value="入场" />
       <item value="使用额度" />
       <item value="unavailable" />
       <item value="不可用" />
@@ -23,7 +25,6 @@
       <item value="起始" />
       <item value="entrance" />
       <item value="港股入场门槛" />
-      <item value="入场" />
       <item value="accredited" />
       <item value="入场资格" />
       <item value="准入资格" />
@@ -50,12 +51,11 @@
       <item value="dummy" />
       <item value="dummary" />
       <item value="This method does not wait for previously submitted tasks to      * complete execution.  Use {@link #awaitTermination awaitTermination}      * to do that." />
-      <item value="Initiates an orderly shutdown in which previously submitted      * tasks are executed, but no new tasks will be accepted.      * Invocation has no additional effect if already shut down." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
