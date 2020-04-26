@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用额度" />
+      <item value="unavailable" />
+      <item value="不可用" />
+      <item value="限额" />
+      <item value="额度" />
+      <item value="Marketing" />
+      <item value="营销" />
       <item value="差值" />
       <item value="patch" />
       <item value="补贴" />
@@ -26,8 +33,6 @@
       <item value="Min" />
       <item value="Threshold" />
       <item value="可用" />
-      <item value="限额" />
-      <item value="额度" />
       <item value="垫付资金" />
       <item value="垫付" />
       <item value="补贴资金" />
@@ -46,16 +51,11 @@
       <item value="dummary" />
       <item value="This method does not wait for previously submitted tasks to      * complete execution.  Use {@link #awaitTermination awaitTermination}      * to do that." />
       <item value="Initiates an orderly shutdown in which previously submitted      * tasks are executed, but no new tasks will be accepted.      * Invocation has no additional effect if already shut down." />
-      <item value="ahead" />
-      <item value="现有" />
-      <item value="数据已经回滚" />
-      <item value="percent" />
-      <item value="统计信息" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
