@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="融资" />
       <item value="入场准入资格" />
       <item value="入场" />
       <item value="使用额度" />
@@ -14,7 +15,6 @@
       <item value="patch" />
       <item value="补贴" />
       <item value="垫资" />
-      <item value="融资" />
       <item value="配资" />
       <item value="evaluate" />
       <item value="合适" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
