@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阈值" />
       <item value="trigger" />
       <item value="触发" />
       <item value="Report" />
@@ -39,7 +40,6 @@
       <item value="入场资格" />
       <item value="准入资格" />
       <item value="准入门槛" />
-      <item value="阈值" />
       <item value="路由规则" />
       <item value="Min" />
       <item value="Threshold" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="ENGLISH" value="80" />
       </map>
     </option>
   </component>
