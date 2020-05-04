@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="可使用" />
-      <item value="可食用" />
-      <item value="个人的" />
-      <item value="额外" />
-      <item value="补偿" />
+      <item value="阈值" />
+      <item value="trigger" />
+      <item value="触发" />
+      <item value="Report" />
+      <item value="阈值告警" />
+      <item value="告警" />
+      <item value="ADVANCED" />
+      <item value="进阶" />
+      <item value="高级" />
+      <item value="阀值" />
+      <item value="refactor" />
+      <item value="融资" />
+      <item value="入场准入资格" />
+      <item value="入场" />
+      <item value="使用额度" />
+      <item value="unavailable" />
+      <item value="不可用" />
+      <item value="限额" />
+      <item value="额度" />
+      <item value="Marketing" />
+      <item value="营销" />
       <item value="差值" />
-      <item value="差值 " />
-      <item value="外键" />
-      <item value="副本" />
-      <item value="Principle" />
-      <item value="组成" />
-      <item value="financing" />
-      <item value="应该" />
-      <item value="revert" />
-      <item value="回退" />
-      <item value="退化" />
-      <item value="actual" />
-      <item value="Release" />
-      <item value="Resume" />
-      <item value="恢复" />
-      <item value="消耗" />
-      <item value="占用" />
-      <item value="占用额度" />
-      <item value="underwriter" />
-      <item value="statuses" />
-      <item value="statues" />
-      <item value="temlate" />
-      <item value="Validate" />
-      <item value="校验" />
-      <item value="中签" />
-      <item value="违法的" />
-      <item value="illgel" />
-      <item value="illgal" />
-      <item value="w" />
-      <item value="超出" />
-      <item value="提示" />
+      <item value="patch" />
+      <item value="补贴" />
+      <item value="垫资" />
       <item value="配资" />
-      <item value="老虎配资" />
-      <item value="GENERAL" />
-      <item value="通用" />
-      <item value="通用的" />
-      <item value="个人" />
-      <item value="tricky" />
-      <item value="空行" />
-      <item value="prematurely" />
-      <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421.  This exception may be caught either      *      as an IOException or independently as itself." />
-      <item value="If the FTP server prematurely closes the connection as a result      *      of the client being idle or some other reason causing the server      *      to send FTP reply code 421. " />
-      <item value="module" />
-      <item value="individual" />
-      <item value="个性化" />
+      <item value="evaluate" />
+      <item value="合适" />
+      <item value="caution" />
+      <item value="Minimum capital" />
+      <item value="最低资金" />
+      <item value="入场费" />
+      <item value="起始" />
+      <item value="entrance" />
+      <item value="港股入场门槛" />
+      <item value="accredited" />
+      <item value="入场资格" />
+      <item value="准入资格" />
+      <item value="准入门槛" />
+      <item value="路由规则" />
+      <item value="Min" />
+      <item value="Threshold" />
+      <item value="可用" />
+      <item value="垫付资金" />
+      <item value="垫付" />
+      <item value="补贴资金" />
+      <item value="advances" />
+      <item value="Subsidy" />
+      <item value="Mat" />
+      <item value="小类" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="80" />
       </map>
     </option>
   </component>
