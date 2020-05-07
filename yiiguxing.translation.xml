@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trigger" />
+      <item value="DisTrigger" />
+      <item value="unTrigger" />
       <item value="可用" />
       <item value="阈值" />
       <item value="trigger" />
@@ -48,9 +51,6 @@
       <item value="垫付" />
       <item value="补贴资金" />
       <item value="advances" />
-      <item value="Subsidy" />
-      <item value="Mat" />
-      <item value="小类" />
     </histories>
     <option name="languageScores">
       <map>
