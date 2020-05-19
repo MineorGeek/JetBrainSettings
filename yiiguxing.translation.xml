@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Rounding mode to round away from zero.  Always increments the      * digit prior to a nonzero discarded fraction.  Note that this rounding      * mode never decreases the magnitude of the calculated value." />
+      <item value="Rounding mode to round towards positive infinity.  If the      * {@code BigDecimal} is positive, behaves as for      * {@code ROUND_UP}; if negative, behaves as for      * {@code ROUND_DOWN}.  Note that this rounding mode never      * decreases the calculated value." />
+      <item value="Rounding mode to round towards negative infinity.  If the      * {@code BigDecimal} is positive, behave as for      * {@code ROUND_DOWN}; if negative, behave as for      * {@code ROUND_UP}.  Note that this rounding mode never      * increases the calculated value." />
+      <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;}      * unless both neighbors are equidistant, in which case round up.      * Behaves as for {@code ROUND_UP} if the discarded fraction is      * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}.  Note      * that this is the rounding mode that most of us were taught in      * grade school." />
       <item value="battle" />
       <item value="营销活动" />
       <item value="cheap" />
@@ -47,10 +51,6 @@
       <item value="最低资金" />
       <item value="入场费" />
       <item value="起始" />
-      <item value="entrance" />
-      <item value="港股入场门槛" />
-      <item value="accredited" />
-      <item value="入场资格" />
     </histories>
     <option name="languageScores">
       <map>
