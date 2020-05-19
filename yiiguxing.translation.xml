@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="营销活动" />
       <item value="cheap" />
       <item value="低价" />
       <item value="锚定" />
@@ -8,7 +9,6 @@
       <item value="不存在" />
       <item value="signed" />
       <item value="Marketing" />
-      <item value="营销活动" />
       <item value="活动营销" />
       <item value="Trigger" />
       <item value="DisTrigger" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="87" />
       </map>
     </option>
   </component>
