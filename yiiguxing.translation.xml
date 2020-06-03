@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收益率" />
+      <item value="yield" />
+      <item value="Earnings" />
+      <item value="收益" />
+      <item value="收益线" />
       <item value="expect" />
       <item value="Financial Advisors" />
       <item value="标识" />
@@ -46,16 +51,11 @@
       <item value="阈值" />
       <item value="trigger" />
       <item value="触发" />
-      <item value="Report" />
-      <item value="阈值告警" />
-      <item value="告警" />
-      <item value="ADVANCED" />
-      <item value="进阶" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="101" />
       </map>
     </option>
   </component>
