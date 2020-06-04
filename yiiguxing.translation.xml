@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="阶梯" />
+      <item value="gear" />
+      <item value="档位" />
       <item value="中签" />
       <item value="概率" />
       <item value="算法" />
@@ -48,14 +51,11 @@
       <item value="signed" />
       <item value="Marketing" />
       <item value="活动营销" />
-      <item value="Trigger" />
-      <item value="DisTrigger" />
-      <item value="unTrigger" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
