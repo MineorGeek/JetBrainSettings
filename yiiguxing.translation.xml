@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="修改" />
+      <item value="derived" />
+      <item value="indication of interest" />
       <item value="局部" />
       <item value="Partly" />
       <item value="wie" />
@@ -48,14 +51,11 @@
       <item value="Rounding mode to round towards positive infinity.  If the      * {@code BigDecimal} is positive, behaves as for      * {@code ROUND_UP}; if negative, behaves as for      * {@code ROUND_DOWN}.  Note that this rounding mode never      * decreases the calculated value." />
       <item value="Rounding mode to round towards negative infinity.  If the      * {@code BigDecimal} is positive, behave as for      * {@code ROUND_DOWN}; if negative, behave as for      * {@code ROUND_UP}.  Note that this rounding mode never      * increases the calculated value." />
       <item value="Rounding mode to round towards {@literal &quot;nearest neighbor&quot;}      * unless both neighbors are equidistant, in which case round up.      * Behaves as for {@code ROUND_UP} if the discarded fraction is      * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}.  Note      * that this is the rounding mode that most of us were taught in      * grade school." />
-      <item value="battle" />
-      <item value="营销活动" />
-      <item value="cheap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="110" />
       </map>
     </option>
   </component>
