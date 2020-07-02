@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="amend" />
+      <item value="校准" />
+      <item value="修正" />
       <item value="transaction" />
       <item value="encrypt" />
       <item value="aggregate" />
@@ -48,14 +51,11 @@
       <item value="Selector" />
       <item value="选择器" />
       <item value="添加" />
-      <item value="补充" />
-      <item value="approve" />
-      <item value="通过" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="ENGLISH" value="116" />
       </map>
     </option>
   </component>
