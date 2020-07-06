@@ -1,72 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="deny all" />
-      <item value="修改" />
-      <item value="derived" />
-      <item value="indication of interest" />
-      <item value="局部" />
-      <item value="Partly" />
-      <item value="wie" />
-      <item value="违法" />
-      <item value="statuses" />
-      <item value="statues" />
-      <item value="可转入的" />
-      <item value="阶梯" />
-      <item value="gear" />
-      <item value="档位" />
-      <item value="中签" />
-      <item value="概率" />
-      <item value="算法" />
-      <item value="leverage" />
-      <item value="收益率" />
-      <item value="yield" />
-      <item value="Earnings" />
-      <item value="收益" />
-      <item value="收益线" />
-      <item value="expect" />
-      <item value="Financial Advisors" />
-      <item value="标识" />
-      <item value="回测" />
-      <item value="回归测试" />
-      <item value="Involve" />
-      <item value="retention" />
-      <item value="Broker" />
-      <item value="路由器" />
-      <item value="注册" />
-      <item value="路由策略" />
-      <item value="Selector" />
-      <item value="选择器" />
-      <item value="添加" />
-      <item value="补充" />
-      <item value="approve" />
-      <item value="通过" />
-      <item value="business" />
-      <item value="BUSSINESS" />
-      <item value="DEPOSIT_REVIEW_PASS_BY_BUSSINESS" />
-      <item value="优化" />
-      <item value="reviews" />
-      <item value="review" />
-      <item value="审核" />
-      <item value="Rounding mode to round away from zero.  Always increments the      * digit prior to a nonzero discarded fraction.  Note that this rounding      * mode never decreases the magnitude of the calculated value." />
-      <item value="Rounding mode to round towards positive infinity.  If the      * {@code BigDecimal} is positive, behaves as for      * {@code ROUND_UP}; if negative, behaves as for      * {@code ROUND_DOWN}.  Note that this rounding mode never      * decreases the calculated value." />
-      <item value="Rounding mode to round towards negative infinity.  If the      * {@code BigDecimal} is positive, behave as for      * {@code ROUND_DOWN}; if negative, behave as for      * {@code ROUND_UP}.  Note that this rounding mode never      * increases the calculated value." />
+      <item value="潘多拉" />
+      <item value="魔盒" />
+      <item value="求索" />
+      <item value="屈原" />
+      <item value="explore" />
+      <item value="quest" />
+      <item value="probe" />
+      <item value="探索" />
+      <item value="overview" />
+      <item value="survey" />
+      <item value="修炼" />
+      <item value="揭秘" />
+      <item value="解密" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="5270ca83735d52d0" />
-        <option name="appKeyConfigured" value="true" />
-      </youdao-translate>
     </option>
   </component>
 </application>
