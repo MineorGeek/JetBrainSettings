@@ -1,72 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="amend" />
-      <item value="校准" />
-      <item value="修正" />
-      <item value="transaction" />
-      <item value="encrypt" />
-      <item value="aggregate" />
-      <item value="aggregation" />
-      <item value="聚合" />
-      <item value="Purchase" />
-      <item value="不支持" />
-      <item value="unsupport" />
-      <item value="Unsupport" />
-      <item value="生成" />
-      <item value="fresh" />
-      <item value="修改" />
-      <item value="derived" />
-      <item value="indication of interest" />
-      <item value="局部" />
-      <item value="Partly" />
-      <item value="wie" />
-      <item value="违法" />
-      <item value="statuses" />
-      <item value="statues" />
-      <item value="可转入的" />
-      <item value="阶梯" />
-      <item value="gear" />
-      <item value="档位" />
-      <item value="中签" />
-      <item value="概率" />
-      <item value="算法" />
-      <item value="leverage" />
-      <item value="收益率" />
-      <item value="yield" />
-      <item value="Earnings" />
-      <item value="收益" />
-      <item value="收益线" />
-      <item value="expect" />
-      <item value="Financial Advisors" />
-      <item value="标识" />
-      <item value="回测" />
-      <item value="回归测试" />
-      <item value="Involve" />
-      <item value="retention" />
-      <item value="Broker" />
-      <item value="路由器" />
-      <item value="注册" />
-      <item value="路由策略" />
-      <item value="Selector" />
-      <item value="选择器" />
-      <item value="添加" />
+      <item value="Focusing" />
+      <item value="current" />
+      <item value="序列" />
+      <item value="潘多拉" />
+      <item value="魔盒" />
+      <item value="求索" />
+      <item value="屈原" />
+      <item value="explore" />
+      <item value="quest" />
+      <item value="probe" />
+      <item value="探索" />
+      <item value="overview" />
+      <item value="survey" />
+      <item value="修炼" />
+      <item value="揭秘" />
+      <item value="解密" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="3" />
       </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="5270ca83735d52d0" />
-        <option name="appKeyConfigured" value="true" />
-      </youdao-translate>
     </option>
   </component>
 </application>
