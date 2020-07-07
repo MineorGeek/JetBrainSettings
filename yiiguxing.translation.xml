@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialize" />
+      <item value="初始化" />
+      <item value="initialization" />
+      <item value="DETECT" />
+      <item value="配置项" />
       <item value="registered" />
       <item value="注册" />
       <item value="翻译 缩写" />
@@ -46,16 +51,11 @@
       <item value="魔盒" />
       <item value="求索" />
       <item value="屈原" />
-      <item value="explore" />
-      <item value="quest" />
-      <item value="probe" />
-      <item value="探索" />
-      <item value="overview" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
