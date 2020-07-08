@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="phoneticSymbol" />
+      <item value="pronounce" />
+      <item value="truncate" />
       <item value="initialize" />
       <item value="初始化" />
       <item value="initialization" />
@@ -27,7 +30,6 @@
       <item value="launcher" />
       <item value="启动" />
       <item value="Translation" />
-      <item value="pronounce" />
       <item value="发音" />
       <item value="音频" />
       <item value="trans" />
@@ -49,8 +51,6 @@
       <item value="序列" />
       <item value="潘多拉" />
       <item value="魔盒" />
-      <item value="求索" />
-      <item value="屈原" />
     </histories>
     <option name="languageScores">
       <map>
