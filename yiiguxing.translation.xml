@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Digest" />
       <item value="encrypt" />
       <item value="加密" />
-      <item value="Digest" />
       <item value="truncate" />
       <item value="缩短" />
       <item value="截取" />
