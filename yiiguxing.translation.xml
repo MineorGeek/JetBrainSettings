@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The parent process uses these streams to feed input to and get output from the subprocess. Because some native platforms only provide limited buffer size for standard input and output streams, failure to promptly write the input stream or read the output stream of the subprocess may cause the subprocess to block, or even deadlock." />
       <item value="排列" />
       <item value="Shared empty array instance used for default sized empty instances. We      * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when      * first element is added." />
       <item value="单例" />
@@ -50,11 +51,10 @@
       <item value="想要查询的" />
       <item value="demand" />
       <item value="查询" />
-      <item value="单词" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
+        <entry key="CHINESE" value="23" />
         <entry key="ENGLISH" value="23" />
       </map>
     </option>
