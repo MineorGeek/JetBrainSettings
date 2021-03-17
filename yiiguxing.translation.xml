@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排列" />
       <item value="Shared empty array instance used for default sized empty instances. We      * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when      * first element is added." />
       <item value="单例" />
       <item value="partition" />
@@ -50,12 +51,11 @@
       <item value="demand" />
       <item value="查询" />
       <item value="单词" />
-      <item value="phonetic symbol" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
